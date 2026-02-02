@@ -1,0 +1,1001 @@
+customer_id,full_name,dob,gender,city,state,country,segment,onboarding_date
+C0001,Laura Martin,03-07-1983,FEMALE,London,England,United Kingdom,Retail,2023/04/21
+C0002,JOSEPH WHITE,"22-12/22/1990, 12:00:00 AM-1990",m,San Francisco,CA,USA,Retail,1/17/2023
+C0003,charlotte Miller,,FEMALE,Sydney,New South Wales,AUS,Retail,15-09-2024
+C0004,Anjali Desai,1984-12-25,F,Bengaluru,KA,India,Retail,19-01-2020
+C0005,Laura Anderson,18-09-1977,female,San Francisco,California,United States,Retail,21-09-2020
+C0006,Sanjay Shah,,m,Chennai,TN,India,Retail,5/9/2022
+C0007,MICHAEL SMITH,20-10-1988,M,Edinburgh,,United Kingdom,Retail,2022-06-26
+C0008,Ananya Iyer,1994-06-11,female,Pune,Maharashtra,IN,Retail,21-03-2024
+C0009,john white,11/24/1986,m,Los Angeles,California,USA,Wealth,2022/04/13
+C0010,david Jones,1991-09-05,MALE,Melbourne,VIC,AUS,Retail,2021-11-03
+C0011,james Miller,12/17/1988,male,Sydney,New South Wales,AU,Retail,1/25/2024
+C0012,DAVID JACKSON,03-09-1974,,Melbourne,VIC,AU,Wealth,02-01-2020
+C0013,MICHAEL DAVIS,1980-08-26,m,Sydney,New South Wales,AU,Retail,9/23/2022
+C0014,Rajesh Verma,1993-10-07,male,Chennai,,IN,Retail,2020-06-07
+C0015,AMIT NAIR,25-08-1989,MALE,Kolkata,West Bengal,IN,Retail,2/20/2024
+C0016,jessica Taylor,1988/11/24,f,Los Angeles,California,USA,Retail,2021-12-24
+C0017,ANANYA GUPTA,"17-01/17/1979, 12:00:00 AM-1979",F,Chennai,Tamil Nadu,IN,Retail,2021-11-11
+C0018,Michael Smith,4/22/1988,MALE,New York,NY,United States,Retail,25-09-2022
+C0019,MARK MARTIN,1972-05-15,,Manchester,England,UK,Retail,2020-08-26
+C0020,James White,,male,Glasgow,,United Kingdom,Retail,2022-03-11
+C0021,JOSEPH SMITH,3/26/1972,M,Edinburgh,Scotland,United Kingdom,Retail,9/8/2022
+C0022,lisa Brown,19-06-1979,Female,Chicago,Illinois,USA,Retail,"24-09/24/2021, 12:00:00 AM-2021"
+C0023,Pooja Joshi,19-08-1974,Female,Hyderabad,Telangana,India,Retail,27-02-2024
+C0024,David Jones,12/25/1976,m,New York,New York,US,Retail,12/27/2021
+C0025,VIJAY SHAH,,,Chennai,TN,India,Retail,2020-05-20
+C0026,LAURA HARRIS,"18-06/18/1990, 12:00:00 AM-1990",Female,Manchester,,United Kingdom,Retail,10/19/2020
+C0027,RACHEL WILLIAMS,"10-11/10/1984, 12:00:00 AM-1984",f,Phoenix,AZ,USA,Wealth,2020/09/08
+C0028,Daniel Miller,1984/06/03,M,Chicago,IL,US,Retail,2023/06/11
+C0029,michael Harris,4/4/1987,Male,London,,GB,Retail,"20-10/20/2022, 12:00:00 AM-2022"
+C0030,andrew Jackson,13-06-1981,M,London,"""""",GB,Wealth,2/20/2024
+C0031,Sarah Miller,1984/11/08,FEMALE,Los Angeles,California,USA,Retail,5/26/2021
+C0032,James Jackson,01-07-1993,M,Birmingham,England,UK,Retail,28-02-2021
+C0033,hannah Wilson,20-08-1976,Female,New York,NY,USA,Retail,22-11-2024
+C0034,vijay Iyer,1986/07/07,MALE,Pune,MH,India,Retail,6/13/2021
+C0035,david williams,"14-08/14/1974, 12:00:00 AM-1974",M,Chicago,IL,US,Retail,05-11-2020
+C0036,Christopher Martin,"4-03/04/1977, 12:00:00 AM-1977",Male,Melbourne,VIC,AU,Retail,"20-06/20/2022, 12:00:00 AM-2022"
+C0037,ankit Gupta,19-11-1993,M,Pune,MH,India,Retail,26-02-2021
+C0038,laura brown,1974/11/27,female,Brisbane,Queensland,Australia,Retail,2023/11/16
+C0039,pooja Kumar,4/26/1973,F,Chennai,TN,IN,Retail,2024-05-03
+C0040,William White,1975/11/22,m,Glasgow,,UK,Retail,16-04-2024
+C0041,ananya Iyer,1978-11-10,f,Delhi,DL,IND,Retail,7/23/2022
+C0042,MEENA DESAI,1994/05/08,F,Chennai,TN,India,Wealth,2020/07/21
+C0043,ARUN SHARMA,1993/12/03,m,Mumbai,MH,India,Retail,2024-11-21
+C0044,hannah martin,"24-03/24/1993, 12:00:00 AM-1993",f,Chicago,IL,US,Wealth,"2-07/02/2020, 12:00:00 AM-2020"
+C0045,Kavita Nair,1969-09-28,female,Mumbai,MH,IN,Wealth,1/15/2022
+C0046,Sophie Brown,4/1/1993,F,Brisbane,Queensland,Australia,Retail,"6-09/06/2022, 12:00:00 AM-2022"
+C0047,JOHN BROWN,12/3/1974,MALE,Edinburgh,,UK,Retail,26-11-2021
+C0048,Jessica Anderson,1980/07/27,female,Birmingham,,GB,Retail,"25-04/25/2020, 12:00:00 AM-2020"
+C0049,Shruti Verma,25-03-1970,Female,Mumbai,,IND,Retail,"21-05/21/2023, 12:00:00 AM-2023"
+C0050,Deepak Gupta,,MALE,Mumbai,Maharashtra,IN,Retail,2020-09-27
+C0051,hannah White,1972/04/17,F,Birmingham,,UK,Retail,10/24/2024
+C0052,MARK THOMAS,12/17/1992,male,Brisbane,Queensland,Australia,Wealth,28-07-2021
+C0053,olivia Martin,2/26/1972,F,Chicago,Illinois,United States,Wealth,12-05-2020
+C0054,Mark Taylor,8/13/1971,,Manchester,,United Kingdom,Retail,2021/03/06
+C0055,MEENA SINGH,"23-10/23/1993, 12:00:00 AM-1993",f,Chennai,Tamil Nadu,IN,Retail,2023-09-10
+C0056,OLIVIA ANDERSON,23-12-1984,F,Melbourne,Victoria,AUS,Retail,2023/11/20
+C0057,sarah Smith,12/9/1987,Female,Los Angeles,CA,US,Retail,2022-11-22
+C0058,David Smith,12/7/1988,male,Houston,,US,Retail,2022-09-19
+C0059,michael brown,24-06-1980,MALE,Sydney,NSW,Australia,Retail,2021/04/19
+C0060,RICHARD SMITH,1985/05/10,M,Birmingham,England,UK,Retail,"5-02/05/2022, 12:00:00 AM-2022"
+C0061,Jennifer Thomas,1970-04-19,F,London,England,UK,Retail,2021/07/23
+C0062,MEENA VERMA,1/20/1988,FEMALE,Mumbai,MH,India,Retail,"15-03/15/2022, 12:00:00 AM-2022"
+C0063,Thomas Jones,1/21/1986,MALE,London,,United Kingdom,Wealth,06-07-2022
+C0064,andrew Smith,1989/02/25,male,Manchester,,UK,Retail,2020/11/12
+C0065,richard Smith,1981-08-10,Male,Houston,Texas,US,Retail,2023/02/18
+C0066,David White,1973/09/01,Male,San Francisco,California,USA,Retail,"11-07/11/2024, 12:00:00 AM-2024"
+C0067,SUNITA MEHTA,17-09-1992,female,Kolkata,WB,IN,Retail,2023/06/19
+C0068,Lisa Anderson,10/14/1992,f,Houston,TX,US,Retail,7/13/2024
+C0069,EMMA THOMAS,"27-04/27/1985, 12:00:00 AM-1985",female,London,"""""",GB,Wealth,2024/01/04
+C0070,SHRUTI GUPTA,"13-10/13/1980, 12:00:00 AM-1980",F,Mumbai,Maharashtra,India,Retail,"9-07/09/2020, 12:00:00 AM-2020"
+C0071,nicole wilson,1977/11/06,,San Francisco,California,US,Wealth,4/3/2022
+C0072,anjali verma,1/18/1994,female,Pune,MH,India,Wealth,6/28/2022
+C0073,NEHA KUMAR,1971/04/11,Female,Hyderabad,TS,India,Wealth,2021/01/27
+C0074,Deepak Gupta,15-08-1979,MALE,Chennai,TN,India,Retail,15-11-2021
+C0075,EMMA WILLIAMS,1979-11-16,FEMALE,Glasgow,Scotland,GB,Retail,"23-04/23/2020, 12:00:00 AM-2020"
+C0076,Ajay Gupta,11-07-1992,M,Hyderabad,TS,IND,Retail,09-01-2022
+C0077,JOHN WILLIAMS,"6-01/06/1986, 12:00:00 AM-1986",,Sydney,New South Wales,AU,Retail,2022/02/01
+C0078,ANJALI JOSHI,1983-06-15,f,Kolkata,WB,India,Retail,19-10-2021
+C0079,daniel Jones,1980/02/21,M,Glasgow,,GB,Retail,1/13/2022
+C0080,David Thomas,1973/05/03,MALE,London,,United Kingdom,Retail,7/16/2022
+C0081,jennifer Wilson,"16-02/16/1990, 12:00:00 AM-1990",FEMALE,San Francisco,California,USA,Retail,2021-03-02
+C0082,amy thomas,4/12/1992,FEMALE,Edinburgh,Scotland,GB,Retail,"18-11/18/2023, 12:00:00 AM-2023"
+C0083,PRIYA PATEL,"24-09/24/1975, 12:00:00 AM-1975",female,Mumbai,,IND,Retail,2021-01-20
+C0084,Laura Davis,1980-10-13,f,Birmingham,England,United Kingdom,Retail,15-07-2024
+C0085,LISA THOMAS,"9-06/09/1989, 12:00:00 AM-1989",female,Glasgow,,United Kingdom,Retail,"12-02/12/2021, 12:00:00 AM-2021"
+C0086,KAVITA IYER,27-06-1974,f,Bengaluru,Karnataka,IND,Retail,5/16/2022
+C0087,robert harris,"16-10/16/1992, 12:00:00 AM-1992",,Birmingham,England,GB,Retail,2020-07-09
+C0088,Ajay Desai,"23-06/23/1979, 12:00:00 AM-1979",M,Delhi,DL,India,Retail,2023/01/15
+C0089,christopher jackson,1992-02-26,M,London,"""""",UK,Retail,"13-03/13/2023, 12:00:00 AM-2023"
+C0090,EMMA JACKSON,2/9/1972,Female,London,,United Kingdom,Retail,1/17/2020
+C0091,Jennifer Brown,16-03-1979,F,Brisbane,Queensland,AU,Retail,2024-05-18
+C0092,hannah wilson,10/28/1988,,Houston,Texas,USA,Retail,5/2/2021
+C0093,suresh Mehta,"21-06/21/1987, 12:00:00 AM-1987",m,Bengaluru,Karnataka,IND,Retail,"25-10/25/2023, 12:00:00 AM-2023"
+C0094,ajay Joshi,1977/11/28,m,Chennai,Tamil Nadu,India,Retail,07-03-2020
+C0095,ROBERT TAYLOR,11/11/1983,MALE,Glasgow,Scotland,United Kingdom,Retail,8/8/2023
+C0096,nicole Davis,1972-11-25,f,Melbourne,Victoria,AUS,Retail,"7-05/07/2020, 12:00:00 AM-2020"
+C0097,sarah Davis,"23-11/23/1983, 12:00:00 AM-1983",female,Los Angeles,California,United States,Retail,2021/08/14
+C0098,lisa davis,1988/04/04,f,New York,NY,United States,Retail,"27-03/27/2021, 12:00:00 AM-2021"
+C0099,matthew brown,7/18/1982,m,Birmingham,England,United Kingdom,Wealth,06-12-2021
+C0100,Ravi Iyer,1979-11-18,MALE,Chennai,TN,IN,Retail,3/3/2024
+C0101,VIKRAM PATEL,09-05-1986,M,Pune,MH,IN,Retail,2020-02-16
+C0102,MANISH REDDY,1992/09/12,Male,Bengaluru,KA,IN,Retail,18-04-2022
+C0103,JOSEPH HARRIS,"2-11/02/1974, 12:00:00 AM-1974",M,Houston,TX,US,Wealth,"5-10/05/2023, 12:00:00 AM-2023"
+C0104,daniel Jones,"11-11/11/1969, 12:00:00 AM-1969",MALE,Brisbane,QLD,AU,Retail,2022/04/24
+C0105,Amit Nair,"9-11/09/1987, 12:00:00 AM-1987",MALE,Delhi,,India,Retail,2024-10-02
+C0106,Pooja Rao,14-11-1986,F,Mumbai,MH,India,Retail,2022/08/02
+C0107,Jennifer Davis,"3-09/03/1973, 12:00:00 AM-1973",f,Chicago,Illinois,US,Retail,"19-01/19/2023, 12:00:00 AM-2023"
+C0108,Sanjay Patel,1987-01-10,M,Pune,Maharashtra,IND,Retail,7/24/2022
+C0109,Mark Harris,1972-01-27,m,Los Angeles,California,USA,Retail,03-07-2023
+C0110,SWATI PATEL,28-05-1980,f,Kolkata,West Bengal,IN,Retail,5/22/2023
+C0111,ROBERT DAVIS,"6-10/06/1979, 12:00:00 AM-1979",Male,Glasgow,,United Kingdom,Retail,2022/11/04
+C0112,john Thomas,,Male,London,England,United Kingdom,Retail,"16-05/16/2023, 12:00:00 AM-2023"
+C0113,meena nair,1972/02/17,Female,Kolkata,WB,India,Retail,12/11/2020
+C0114,RAHUL SHAH,1973/07/10,m,Delhi,DL,IND,Retail,2021-04-03
+C0115,emily wilson,"6-04/06/1972, 12:00:00 AM-1972",F,New York,New York,US,Retail,2021/12/21
+C0116,RITU VERMA,,Female,Chennai,Tamil Nadu,India,Wealth,7/12/2024
+C0117,Amy Miller,1969-11-02,FEMALE,Phoenix,AZ,US,Retail,1/2/2023
+C0118,RICHARD HARRIS,"20-04/20/1981, 12:00:00 AM-1981",Male,Brisbane,QLD,AUS,Wealth,2/4/2021
+C0119,Andrew Harris,1986/10/18,male,New York,New York,USA,Retail,2022/11/14
+C0120,Deepak Kumar,"20-01/20/1989, 12:00:00 AM-1989",m,Bengaluru,Karnataka,IND,Retail,2022/02/14
+C0121,Christopher Brown,14-03-1984,m,Phoenix,AZ,USA,Retail,"20-05/20/2021, 12:00:00 AM-2021"
+C0122,steven williams,1977/10/27,Male,Birmingham,England,UK,Wealth,01-08-2023
+C0123,OLIVIA JONES,,female,Houston,Texas,US,Retail,2022/12/01
+C0124,Daniel Johnson,"12-04/12/1970, 12:00:00 AM-1970",,Edinburgh,Scotland,UK,Retail,11/18/2021
+C0125,rebecca wilson,03-03-1984,Female,Glasgow,Scotland,United Kingdom,Retail,2020/02/03
+C0126,HANNAH TAYLOR,,f,Edinburgh,Scotland,UK,Retail,7/15/2020
+C0127,michael Jackson,6/17/1985,Male,Glasgow,,UK,Retail,2024-04-21
+C0128,michael thomas,27-08-1989,M,Phoenix,AZ,USA,Retail,"14-01/14/2021, 12:00:00 AM-2021"
+C0129,Richard Williams,1987/02/03,MALE,Chicago,Illinois,USA,Retail,2023-12-17
+C0130,Robert Anderson,11/17/1986,Male,Birmingham,,United Kingdom,Wealth,03-07-2020
+C0131,anjali joshi,"27-12/27/1976, 12:00:00 AM-1976",f,Hyderabad,Telangana,IND,Wealth,2021-07-17
+C0132,james brown,10/12/1970,male,Glasgow,Scotland,GB,Retail,6/13/2020
+C0133,prashant Verma,1992-02-06,MALE,Kolkata,WB,India,Retail,6/19/2023
+C0134,POOJA MEHTA,"26-10/26/1970, 12:00:00 AM-1970",f,Chennai,TN,IND,Retail,"27-10/27/2023, 12:00:00 AM-2023"
+C0135,AMIT VERMA,21-08-1969,MALE,Hyderabad,Telangana,India,Wealth,2021-01-15
+C0136,daniel jackson,01-08-1970,m,Los Angeles,CA,US,Retail,"3-12/03/2024, 12:00:00 AM-2024"
+C0137,laura johnson,1979/11/20,F,Edinburgh,Scotland,United Kingdom,Retail,2022/02/14
+C0138,rebecca Smith,1976/07/08,F,New York,NY,United States,Retail,2021-09-27
+C0139,nicole martin,1990/06/26,,Edinburgh,,United Kingdom,Retail,02-12-2024
+C0140,DEEPAK JOSHI,5/1/1982,m,Bengaluru,KA,India,Retail,11-06-2024
+C0141,nicole white,1974/08/16,f,San Francisco,CA,United States,Retail,2021/01/19
+C0142,jennifer Anderson,"27-06/27/1986, 12:00:00 AM-1986",female,Birmingham,England,UK,Retail,1/26/2024
+C0143,Pooja Desai,1973/01/09,F,Kolkata,WB,India,Wealth,5/2/2021
+C0144,divya Kumar,,FEMALE,Kolkata,West Bengal,IN,Retail,2022/04/27
+C0145,suresh Pillai,1990/03/25,,Mumbai,Maharashtra,IN,Retail,4/12/2020
+C0146,ritu Nair,1983/12/28,F,Hyderabad,TS,IND,Retail,2021/02/21
+C0147,Lisa Taylor,"8-06/08/1971, 12:00:00 AM-1971",F,San Francisco,California,US,Retail,2024/08/03
+C0148,jessica Johnson,1979/06/28,Female,Edinburgh,Scotland,UK,Retail,2021-05-01
+C0149,joseph brown,2/13/1989,,Brisbane,QLD,Australia,Retail,2021-11-21
+C0150,Mark Brown,1/25/1979,MALE,Houston,TX,United States,Retail,2023-10-20
+C0151,ananya rao,1989-07-15,f,Chennai,TN,IN,Retail,2024-12-07
+C0152,suresh Verma,15-05-1990,m,Hyderabad,Telangana,India,Wealth,2020-02-27
+C0153,vikram shah,"11-09/11/1982, 12:00:00 AM-1982",,Kolkata,WB,IND,Retail,2023/07/06
+C0154,William Anderson,1969-07-24,MALE,Birmingham,,United Kingdom,Retail,2020-07-15
+C0155,olivia martin,"1-12/01/1994, 12:00:00 AM-1994",f,Los Angeles,CA,US,Retail,03-07-2023
+C0156,rachel brown,06-03-1974,f,Chicago,IL,United States,Wealth,"16-07/16/2021, 12:00:00 AM-2021"
+C0157,SAPNA SINGH,28-03-1979,FEMALE,Chennai,TN,IND,Retail,10/23/2020
+C0158,john martin,1983/10/09,m,Edinburgh,,United Kingdom,Retail,2023/04/26
+C0159,LISA MARTIN,2/24/1986,Female,Manchester,,United Kingdom,Retail,7/10/2021
+C0160,robert Thomas,,Male,Edinburgh,,GB,Retail,2023-10-07
+C0161,prashant rao,1987/09/14,male,Pune,MH,IN,Retail,2021-12-21
+C0162,Ajay Rao,1980-04-27,Male,Mumbai,Maharashtra,India,Retail,"18-12/18/2022, 12:00:00 AM-2022"
+C0163,Lisa Jackson,"26-11/26/1976, 12:00:00 AM-1976",f,Glasgow,,United Kingdom,Retail,2023/09/21
+C0164,HANNAH JOHNSON,11-01-1978,F,Edinburgh,Scotland,UK,Retail,2023-10-25
+C0165,Pooja Kumar,1978/09/04,,Kolkata,West Bengal,IND,Wealth,9/24/2020
+C0166,vikram Reddy,1/28/1993,m,Delhi,Delhi,India,Retail,11-10-2021
+C0167,Nitin Kumar,1980/09/14,MALE,Pune,Maharashtra,India,Retail,6/21/2020
+C0168,Rekha Gupta,10/27/1985,female,Kolkata,West Bengal,India,Retail,2024/08/09
+C0169,JOSEPH WHITE,12/3/1990,male,Birmingham,England,UK,Retail,20-03-2023
+C0170,Amy Jones,"16-12/16/1982, 12:00:00 AM-1982",f,New York,New York,United States,Retail,16-04-2024
+C0171,Christopher Brown,3/16/1991,M,San Francisco,California,USA,Retail,2021/08/18
+C0172,joseph Wilson,11-09-1973,male,Los Angeles,CA,US,Retail,2023/03/09
+C0173,Steven Martin,1983-11-22,m,Phoenix,Arizona,USA,Retail,2023-06-28
+C0174,Jennifer White,6/5/1977,female,Birmingham,England,UK,Retail,"1-01/01/2023, 12:00:00 AM-2023"
+C0175,daniel davis,1991/05/23,Male,Melbourne,,AU,Wealth,2022-09-14
+C0176,MATTHEW SMITH,1977/07/05,male,Birmingham,,UK,Retail,2023/09/25
+C0177,Rebecca Smith,1981-08-04,FEMALE,Brisbane,Queensland,Australia,Retail,"6-09/06/2021, 12:00:00 AM-2021"
+C0178,rebecca Harris,1/16/1981,,Edinburgh,,UK,Retail,"4-02/04/2020, 12:00:00 AM-2020"
+C0179,Nisha Singh,1979-07-07,f,Chennai,TN,India,Retail,"5-12/05/2023, 12:00:00 AM-2023"
+C0180,JOHN ANDERSON,"11-08/11/1981, 12:00:00 AM-1981",MALE,Melbourne,Victoria,AU,Wealth,13-07-2022
+C0181,Anjali Reddy,1988/12/15,F,Pune,Maharashtra,IND,Wealth,"10-05/10/2020, 12:00:00 AM-2020"
+C0182,Thomas Harris,"27-11/27/1973, 12:00:00 AM-1973",MALE,Manchester,England,GB,Wealth,2022-11-08
+C0183,william Brown,26-06-1990,M,Sydney,New South Wales,AU,Retail,2020-01-04
+C0184,nitin Joshi,07-03-1983,MALE,Kolkata,WB,India,Wealth,10-11-2023
+C0185,JAMES TAYLOR,6/9/1992,m,Los Angeles,California,USA,Retail,1/3/2022
+C0186,vikram Reddy,11-02-1991,Male,Mumbai,MH,IN,Wealth,2020/09/10
+C0187,Ravi Rao,1974-05-14,M,Mumbai,Maharashtra,IN,Retail,12/17/2020
+C0188,john Smith,09-09-1976,male,Manchester,,GB,Wealth,2/28/2024
+C0189,Kavita Iyer,,Female,Hyderabad,TS,IND,Retail,2024/10/12
+C0190,sapna reddy,"12-09/12/1989, 12:00:00 AM-1989",female,Mumbai,MH,India,Wealth,12-09-2022
+C0191,LAURA JACKSON,"7-10/07/1988, 12:00:00 AM-1988",female,Houston,Texas,USA,Retail,2024/03/19
+C0192,JOHN MARTIN,"14-08/14/1972, 12:00:00 AM-1972",Male,Phoenix,Arizona,United States,Retail,"12-09/12/2024, 12:00:00 AM-2024"
+C0193,Robert Brown,"24-04/24/1980, 12:00:00 AM-1980",Male,Edinburgh,,United Kingdom,Retail,13-04-2022
+C0194,Emma White,"26-05/26/1971, 12:00:00 AM-1971",female,Edinburgh,Scotland,GB,Wealth,2024-10-03
+C0195,Mark Wilson,1980-02-18,Male,Melbourne,VIC,Australia,Retail,2021-07-15
+C0196,Arun Mehta,,M,Pune,MH,IND,Wealth,8/4/2022
+C0197,charlotte brown,"22-07/22/1988, 12:00:00 AM-1988",Female,Edinburgh,,UK,Retail,"26-12/26/2022, 12:00:00 AM-2022"
+C0198,Steven Jackson,1992/04/22,MALE,Houston,TX,United States,Retail,"16-02/16/2020, 12:00:00 AM-2020"
+C0199,EMMA HARRIS,"5-02/05/1974, 12:00:00 AM-1974",Female,Sydney,NSW,AUS,Retail,04-12-2020
+C0200,amy miller,01-06-1992,f,Sydney,New South Wales,AUS,Wealth,2022-02-25
+C0201,nitin Verma,27-11-1990,Male,Delhi,Delhi,IND,Retail,"17-04/17/2021, 12:00:00 AM-2021"
+C0202,ARUN SHARMA,1991-03-07,m,Delhi,,IN,Retail,2023-04-02
+C0203,nisha Kumar,1993-08-17,FEMALE,Chennai,TN,IN,Retail,1/21/2024
+C0204,Shruti Verma,7/10/1981,F,Delhi,DL,IND,Retail,10/18/2020
+C0205,REBECCA JONES,1989-11-12,FEMALE,Manchester,England,United Kingdom,Retail,"3-04/03/2022, 12:00:00 AM-2022"
+C0206,nicole johnson,1970/11/06,,Edinburgh,,GB,Retail,"15-02/15/2024, 12:00:00 AM-2024"
+C0207,Ritu Kumar,26-03-1972,F,Mumbai,Maharashtra,IND,Retail,23-12-2021
+C0208,SARAH THOMAS,6/18/1985,FEMALE,Edinburgh,Scotland,UK,Retail,2024-01-26
+C0209,STEVEN DAVIS,"26-12/26/1982, 12:00:00 AM-1982",Male,Houston,,USA,Retail,16-04-2021
+C0210,Robert Anderson,12/19/1970,M,San Francisco,CA,United States,Retail,"1-02/01/2022, 12:00:00 AM-2022"
+C0211,ANKIT KUMAR,26-09-1994,M,Delhi,DL,India,Retail,7/8/2020
+C0212,AMIT PILLAI,1985-06-02,male,Pune,Maharashtra,IN,Retail,2023-05-09
+C0213,Michael Smith,,M,Los Angeles,California,United States,Retail,18-12-2024
+C0214,Shruti Verma,08-03-1988,f,Kolkata,West Bengal,IND,Retail,"28-11/28/2021, 12:00:00 AM-2021"
+C0215,NICOLE DAVIS,8/16/1994,Female,Houston,Texas,USA,Retail,09-06-2021
+C0216,VIJAY MEHTA,20-01-1983,m,Chennai,Tamil Nadu,IND,Retail,2022-11-22
+C0217,Daniel Anderson,,male,Los Angeles,CA,United States,Wealth,28-05-2023
+C0218,Jessica Brown,3/25/1969,female,Edinburgh,Scotland,United Kingdom,Retail,2022/07/13
+C0219,ANJALI REDDY,21-10-1977,f,Bengaluru,KA,India,Retail,"28-03/28/2022, 12:00:00 AM-2022"
+C0220,RAJESH REDDY,1982/05/02,male,Hyderabad,Telangana,India,Retail,06-06-2022
+C0221,William Johnson,11-01-1972,male,Brisbane,Queensland,Australia,Retail,2020/07/07
+C0222,emma Wilson,6/19/1972,f,San Francisco,California,USA,Retail,2024/07/17
+C0223,Ananya Verma,"23-07/23/1990, 12:00:00 AM-1990",f,Pune,MH,IND,Retail,17-01-2021
+C0224,Amit Singh,1972/07/22,Male,Hyderabad,,India,Retail,1/14/2021
+C0225,DEEPAK SHARMA,28-06-1969,m,Kolkata,West Bengal,India,Retail,2024-12-17
+C0226,richard Johnson,18-09-1982,Male,Los Angeles,California,USA,Retail,2022/05/03
+C0227,Mark Brown,14-07-1975,Male,Houston,TX,USA,Retail,20-06-2023
+C0228,Joseph Harris,1969/07/22,Male,Manchester,,United Kingdom,Retail,2023/06/21
+C0229,robert martin,12/18/1980,male,Chicago,Illinois,United States,Retail,2024/11/19
+C0230,Emma Wilson,1985/02/20,Female,Houston,TX,US,Retail,2021/08/06
+C0231,Amy Jackson,"23-08/23/1971, 12:00:00 AM-1971",f,Los Angeles,California,US,Retail,2021/03/26
+C0232,MATTHEW HARRIS,1975-08-17,MALE,Los Angeles,California,US,Retail,02-10-2022
+C0233,RAHUL SHAH,1978-01-26,,Delhi,DL,IND,Retail,2024/08/03
+C0234,james miller,07-06-1993,male,San Francisco,California,USA,Retail,3/8/2020
+C0235,william Jones,,M,Melbourne,VIC,Australia,Retail,9/19/2023
+C0236,RAHUL NAIR,"23-12/23/1987, 12:00:00 AM-1987",m,Pune,Maharashtra,IN,Retail,2/11/2024
+C0237,shruti Rao,7/28/1977,female,Pune,Maharashtra,IN,Retail,1/3/2023
+C0238,Manish Rao,"25-08/25/1983, 12:00:00 AM-1983",male,Hyderabad,Telangana,India,Retail,2021-02-10
+C0239,SURESH SINGH,10-07-1978,male,Chennai,Tamil Nadu,India,Retail,2020-02-22
+C0240,Rahul Verma,1982/08/15,Male,Kolkata,West Bengal,India,Wealth,2021-09-04
+C0241,rachel thomas,1985-05-15,f,Melbourne,Victoria,AUS,Retail,2023-07-04
+C0242,Michael Martin,"20-01/20/1984, 12:00:00 AM-1984",MALE,Edinburgh,Scotland,GB,Retail,2023-04-13
+C0243,deepak sharma,"20-03/20/1984, 12:00:00 AM-1984",,Bengaluru,KA,IND,Retail,2024/11/09
+C0244,JENNIFER WILSON,1990-04-23,F,Houston,TX,USA,Retail,"11-09/11/2024, 12:00:00 AM-2024"
+C0245,arun joshi,"18-01/18/1994, 12:00:00 AM-1994",Male,Kolkata,WB,IN,Retail,13-01-2022
+C0246,Kavita Iyer,1982/07/26,,Kolkata,West Bengal,IN,Retail,"15-08/15/2022, 12:00:00 AM-2022"
+C0247,NEHA MEHTA,"27-12/27/1991, 12:00:00 AM-1991",F,Hyderabad,TS,IN,Wealth,12-01-2023
+C0248,william martin,1/6/1979,MALE,San Francisco,California,US,Retail,"22-01/22/2023, 12:00:00 AM-2023"
+C0249,NEHA SHAH,16-05-1986,,Pune,Maharashtra,IND,Retail,2021/10/26
+C0250,Richard Taylor,22-01-1976,MALE,London,"""""",GB,Retail,2021/09/06
+C0251,SURESH GUPTA,1988/10/24,male,Delhi,Delhi,IND,Wealth,2022-03-08
+C0252,LAURA WHITE,1980/10/08,female,Brisbane,Queensland,AUS,Retail,5/9/2022
+C0253,ritu Patel,4/3/1982,female,Hyderabad,Telangana,IN,Retail,2023/08/02
+C0254,Olivia Taylor,"18-01/18/1992, 12:00:00 AM-1992",FEMALE,Chicago,Illinois,United States,Retail,"18-01/18/2020, 12:00:00 AM-2020"
+C0255,jennifer Wilson,10/13/1974,,Manchester,England,United Kingdom,Retail,2022/01/02
+C0256,meena Gupta,8/9/1988,Female,Mumbai,Maharashtra,IND,Retail,21-06-2020
+C0257,Nitin Gupta,"27-06/27/1978, 12:00:00 AM-1978",m,Bengaluru,Karnataka,IND,Retail,2020-12-25
+C0258,CHARLOTTE JACKSON,1970-02-22,female,Manchester,,United Kingdom,Retail,1/18/2020
+C0259,Swati Iyer,"19-08/19/1991, 12:00:00 AM-1991",female,Chennai,TN,IN,Retail,"13-10/13/2022, 12:00:00 AM-2022"
+C0260,ritu Joshi,1971/09/06,f,Bengaluru,KA,India,Retail,"14-04/14/2024, 12:00:00 AM-2024"
+C0261,olivia Wilson,21-02-1983,female,Glasgow,Scotland,UK,Retail,2022/07/25
+C0262,steven Miller,16-10-1987,Male,Phoenix,AZ,US,Retail,02-01-2024
+C0263,Anjali Kumar,"28-09/28/1987, 12:00:00 AM-1987",,Mumbai,Maharashtra,IND,Wealth,2023/05/27
+C0264,amy anderson,"5-10/05/1985, 12:00:00 AM-1985",female,Edinburgh,Scotland,UK,Retail,"7-12/07/2022, 12:00:00 AM-2022"
+C0265,emily wilson,"28-08/28/1969, 12:00:00 AM-1969",FEMALE,Sydney,NSW,AU,Wealth,2021/11/18
+C0266,vijay joshi,"28-03/28/1973, 12:00:00 AM-1973",,Mumbai,MH,IND,Retail,2023/04/11
+C0267,DEEPAK SHARMA,1991/02/03,Male,Mumbai,Maharashtra,India,Retail,19-09-2021
+C0268,pooja mehta,7/10/1969,FEMALE,Pune,MH,IND,Retail,"26-08/26/2020, 12:00:00 AM-2020"
+C0269,john davis,9/23/1993,male,London,England,United Kingdom,Retail,2020/03/19
+C0270,Swati Singh,"11-02/11/1980, 12:00:00 AM-1980",f,Mumbai,MH,IN,Retail,5/24/2022
+C0271,andrew davis,1979/12/12,M,Houston,Texas,United States,Retail,2/19/2024
+C0272,Laura Smith,26-04-1969,F,San Francisco,California,USA,Retail,2021/10/26
+C0273,THOMAS BROWN,10/17/1983,male,San Francisco,California,United States,Retail,18-09-2024
+C0274,Charlotte Williams,27-05-1991,F,Edinburgh,Scotland,UK,Retail,7/17/2020
+C0275,DAVID THOMAS,,male,Los Angeles,California,United States,Retail,14-08-2020
+C0276,JESSICA MARTIN,11/7/1973,F,Houston,TX,US,Retail,2020-07-10
+C0277,michael williams,18-11-1975,Male,Phoenix,Arizona,United States,Retail,2021/10/01
+C0278,Laura White,10/23/1972,FEMALE,Houston,Texas,USA,Retail,2024-04-09
+C0279,Daniel Anderson,1981-12-16,Male,Glasgow,,UK,Retail,4/2/2023
+C0280,charlotte davis,1/1/1972,FEMALE,Sydney,NSW,AU,Retail,2024/01/01
+C0281,hannah brown,24-12-1970,female,Phoenix,Arizona,USA,Retail,2024/06/02
+C0282,PRASHANT JOSHI,1991/04/19,MALE,Mumbai,MH,IND,Retail,"26-08/26/2021, 12:00:00 AM-2021"
+C0283,MICHAEL ANDERSON,"1-11/01/1989, 12:00:00 AM-1989",Male,Birmingham,,UK,Retail,2021-05-11
+C0284,sapna Gupta,"5-02/05/1993, 12:00:00 AM-1993",FEMALE,Chennai,TN,IND,Retail,2024-11-15
+C0285,Sarah Wilson,13-01-1982,FEMALE,San Francisco,CA,US,Retail,2021/07/09
+C0286,Ananya Kumar,1972-10-17,Female,Kolkata,,IND,Retail,"4-09/04/2023, 12:00:00 AM-2023"
+C0287,andrew jones,,m,Houston,Texas,United States,Wealth,2021/03/26
+C0288,STEVEN DAVIS,"18-09/18/1991, 12:00:00 AM-1991",M,Chicago,IL,United States,Retail,2024/04/26
+C0289,rajesh mehta,,male,Chennai,Tamil Nadu,India,Retail,2021/08/02
+C0290,nicole jackson,1993/02/08,Female,Houston,Texas,USA,Retail,2024-11-11
+C0291,JOSEPH WHITE,01-10-1989,Male,Phoenix,Arizona,USA,Retail,2022/06/18
+C0292,lisa miller,1978/01/02,FEMALE,Melbourne,Victoria,AUS,Retail,2023/12/07
+C0293,rebecca johnson,,f,Glasgow,,GB,Wealth,2023-12-01
+C0294,james thomas,1/9/1983,male,Melbourne,VIC,AUS,Retail,25-01-2021
+C0295,Rebecca Davis,12/20/1994,Female,Los Angeles,CA,US,Retail,"15-02/15/2020, 12:00:00 AM-2020"
+C0296,Joseph Williams,23-09-1982,M,New York,NY,USA,Retail,2021-05-05
+C0297,LAURA JOHNSON,27-02-1993,FEMALE,Phoenix,AZ,United States,Retail,2021/10/28
+C0298,daniel jackson,12-02-1988,M,Glasgow,,UK,Retail,"18-07/18/2021, 12:00:00 AM-2021"
+C0299,richard davis,2/5/1991,MALE,Melbourne,Victoria,AU,Wealth,2021-04-09
+C0300,meena patel,"3-12/03/1975, 12:00:00 AM-1975",Female,Chennai,Tamil Nadu,India,Retail,2020/11/06
+C0301,jessica Thomas,1971-04-18,f,Brisbane,QLD,Australia,Retail,2022-07-26
+C0302,Jessica Brown,28-01-1993,FEMALE,Birmingham,England,UK,Retail,2021/05/21
+C0303,Arun Shah,1987-02-01,,Pune,MH,India,Retail,03-04-2024
+C0304,deepak pillai,5/9/1978,m,Hyderabad,TS,India,Retail,2020-01-09
+C0305,Michael Anderson,1983/10/22,male,Phoenix,AZ,USA,Retail,18-03-2022
+C0306,EMILY DAVIS,1990-04-07,Female,Birmingham,England,UK,Wealth,2024/09/05
+C0307,Daniel Taylor,1979-05-26,M,Brisbane,Queensland,AUS,Retail,4/3/2024
+C0308,Jennifer White,1973-04-28,Female,Glasgow,,UK,Retail,12/10/2020
+C0309,Vikram Singh,1994-06-05,Male,Hyderabad,Telangana,India,Retail,08-09-2022
+C0310,WILLIAM TAYLOR,1993/03/09,male,Houston,Texas,United States,Retail,"24-01/24/2020, 12:00:00 AM-2020"
+C0311,olivia Williams,1973/03/26,f,Chicago,Illinois,USA,Wealth,2021/08/28
+C0312,Olivia Brown,11/2/1980,female,Los Angeles,CA,United States,Retail,"22-08/22/2020, 12:00:00 AM-2020"
+C0313,JENNIFER WILLIAMS,7/20/1988,F,Melbourne,Victoria,AU,Retail,"18-10/18/2022, 12:00:00 AM-2022"
+C0314,Nicole Davis,"9-10/09/1989, 12:00:00 AM-1989",,San Francisco,California,USA,Wealth,"24-11/24/2024, 12:00:00 AM-2024"
+C0315,HANNAH WHITE,"17-01/17/1976, 12:00:00 AM-1976",female,Chicago,Illinois,United States,Retail,23-04-2022
+C0316,steven brown,11/26/1977,M,Edinburgh,,UK,Retail,7/8/2022
+C0317,laura davis,24-12-1969,female,Birmingham,,United Kingdom,Retail,2024/01/17
+C0318,vikram singh,"22-12/22/1974, 12:00:00 AM-1974",m,Pune,Maharashtra,IN,Retail,"8-06/08/2024, 12:00:00 AM-2024"
+C0319,DANIEL BROWN,1975-06-23,m,Los Angeles,CA,US,Retail,2022/07/14
+C0320,JOSEPH WHITE,1973/08/03,m,New York,NY,US,Retail,2024-03-12
+C0321,andrew Brown,19-11-1969,m,Phoenix,AZ,USA,Retail,11/7/2023
+C0322,jessica williams,4/13/1994,Female,London,"""""",United Kingdom,Retail,10-03-2022
+C0323,andrew johnson,1981/04/25,Male,Melbourne,Victoria,AU,Wealth,2022-08-10
+C0324,ANDREW DAVIS,15-06-1993,Male,Chicago,Illinois,United States,Wealth,12/25/2023
+C0325,john martin,"6-11/06/1987, 12:00:00 AM-1987",MALE,Los Angeles,California,United States,Retail,4/3/2022
+C0326,nicole jones,1987/02/07,Female,Manchester,,United Kingdom,Retail,10/17/2020
+C0327,sunita Gupta,"8-09/08/1984, 12:00:00 AM-1984",female,Mumbai,,India,Retail,2022-09-03
+C0328,SOPHIE MILLER,2/22/1979,f,Birmingham,England,UK,Retail,2023/03/27
+C0329,vijay Rao,1986/04/14,male,Bengaluru,KA,IN,Wealth,2021-12-04
+C0330,deepak Pillai,1994/07/12,MALE,Hyderabad,Telangana,IND,Retail,25-07-2020
+C0331,Nisha Sharma,1984/06/12,F,Hyderabad,,India,Wealth,2024-01-08
+C0332,amit Joshi,1983-02-08,male,Delhi,DL,India,Wealth,2024/03/23
+C0333,CHRISTOPHER MARTIN,25-07-1972,m,Birmingham,England,United Kingdom,Retail,"5-10/05/2021, 12:00:00 AM-2021"
+C0334,laura Anderson,"22-10/22/1976, 12:00:00 AM-1976",FEMALE,Sydney,NSW,Australia,Retail,01-10-2023
+C0335,Sapna Verma,1973-03-24,F,Pune,Maharashtra,India,Retail,"9-01/09/2020, 12:00:00 AM-2020"
+C0336,Amy Miller,18-03-1971,female,Chicago,Illinois,US,Retail,2020-04-04
+C0337,DIVYA JOSHI,1/5/1975,Female,Pune,MH,India,Retail,3/1/2020
+C0338,ANANYA VERMA,,F,Chennai,,India,Wealth,"25-01/25/2023, 12:00:00 AM-2023"
+C0339,Charlotte Jackson,11/1/1978,f,London,,UK,Retail,2/21/2021
+C0340,OLIVIA WILSON,09-10-1979,female,Birmingham,,United Kingdom,Retail,24-05-2023
+C0341,Ananya Sharma,"14-05/14/1982, 12:00:00 AM-1982",Female,Bengaluru,Karnataka,IN,Retail,11/9/2024
+C0342,CHARLOTTE MARTIN,"16-03/16/1988, 12:00:00 AM-1988",female,New York,New York,United States,Retail,2022-03-01
+C0343,SANJAY SHAH,1981-10-17,Male,Delhi,Delhi,IN,Wealth,2021-06-21
+C0344,Meena Singh,1994-07-03,FEMALE,Chennai,Tamil Nadu,IN,Wealth,06-10-2021
+C0345,REBECCA BROWN,1977/04/26,FEMALE,Chicago,Illinois,US,Wealth,"15-09/15/2022, 12:00:00 AM-2022"
+C0346,nitin gupta,,MALE,Pune,MH,IN,Retail,25-01-2021
+C0347,sophie anderson,"13-06/13/1971, 12:00:00 AM-1971",F,Glasgow,Scotland,UK,Retail,2023/12/23
+C0348,Lisa Williams,1994-10-25,female,Houston,TX,United States,Retail,5/8/2020
+C0349,MATTHEW THOMAS,1979-01-05,m,Glasgow,Scotland,UK,Retail,10/22/2023
+C0350,JENNIFER THOMAS,1969/02/06,f,Brisbane,QLD,AU,Wealth,5/26/2023
+C0351,REBECCA WHITE,7/28/1978,Female,Birmingham,England,United Kingdom,Retail,8/8/2020
+C0352,hannah taylor,,f,Los Angeles,,USA,Retail,24-12-2023
+C0353,DANIEL MARTIN,08-01-1991,Male,Los Angeles,California,United States,Wealth,07-08-2022
+C0354,MICHAEL WHITE,01-03-1979,M,Phoenix,AZ,USA,Retail,2021/08/04
+C0355,EMMA WILSON,2/23/1982,F,Melbourne,,AU,Retail,2022/06/24
+C0356,michael Johnson,1980/08/26,M,San Francisco,CA,United States,Retail,2021-08-19
+C0357,priya Singh,1969-06-20,FEMALE,Hyderabad,Telangana,India,Retail,2023/11/25
+C0358,NITIN SINGH,1991/07/24,m,Chennai,Tamil Nadu,IN,Retail,"6-06/06/2023, 12:00:00 AM-2023"
+C0359,Joseph Taylor,1971/12/27,m,Manchester,England,United Kingdom,Retail,2020-01-01
+C0360,nicole brown,7/6/1981,F,Glasgow,,UK,Retail,2022/06/12
+C0361,sarah Jones,1992-08-17,F,Birmingham,England,UK,Wealth,"11-10/11/2020, 12:00:00 AM-2020"
+C0362,CHRISTOPHER JOHNSON,"1-06/01/1982, 12:00:00 AM-1982",m,Birmingham,England,GB,Retail,2021-11-23
+C0363,prashant joshi,4/12/1988,Male,Mumbai,,IN,Retail,2023-08-20
+C0364,david Thomas,02-03-1993,Male,London,,GB,Retail,"16-12/16/2024, 12:00:00 AM-2024"
+C0365,NISHA DESAI,5/13/1990,female,Mumbai,Maharashtra,IN,Retail,3/19/2021
+C0366,Sophie Johnson,19-03-1988,F,Glasgow,Scotland,United Kingdom,Retail,2023/12/15
+C0367,Rachel White,4/8/1992,FEMALE,Glasgow,,GB,Retail,2020-04-05
+C0368,arun shah,16-10-1972,M,Bengaluru,Karnataka,IN,Retail,2022-04-27
+C0369,rahul Verma,1/14/1978,Male,Kolkata,WB,IND,Retail,02-04-2024
+C0370,POOJA JOSHI,15-01-1972,female,Chennai,Tamil Nadu,India,Retail,15-03-2021
+C0371,Prashant Reddy,1974-02-05,M,Mumbai,MH,IND,Retail,6/20/2022
+C0372,Deepak Iyer,24-04-1969,M,Delhi,Delhi,IN,Retail,7/15/2020
+C0373,anjali Desai,1993-07-23,female,Mumbai,Maharashtra,IN,Retail,"5-01/05/2020, 12:00:00 AM-2020"
+C0374,nicole Martin,7/6/1994,Female,San Francisco,California,United States,Retail,6/23/2022
+C0375,manish verma,"20-08/20/1991, 12:00:00 AM-1991",male,Pune,Maharashtra,India,Retail,2021-03-15
+C0376,michael brown,7/8/1992,m,Brisbane,Queensland,AUS,Retail,2020/08/16
+C0377,Neha Singh,,F,Kolkata,West Bengal,India,Retail,1/10/2020
+C0378,michael wilson,12/22/1991,,Manchester,,United Kingdom,Retail,"22-06/22/2022, 12:00:00 AM-2022"
+C0379,ritu rao,02-01-1979,,Mumbai,Maharashtra,India,Retail,2020-06-02
+C0380,hannah johnson,1986/05/13,f,Phoenix,Arizona,US,Retail,2020/02/10
+C0381,sanjay Kumar,11/5/1971,,Chennai,Tamil Nadu,IND,Retail,"2-09/02/2022, 12:00:00 AM-2022"
+C0382,RACHEL WILSON,1994-07-16,female,Sydney,New South Wales,Australia,Retail,3/2/2023
+C0383,rebecca taylor,1989-03-25,F,Chicago,IL,US,Retail,17-11-2021
+C0384,james smith,"14-10/14/1980, 12:00:00 AM-1980",Male,Phoenix,,US,Wealth,02-12-2021
+C0385,Jennifer Harris,"4-11/04/1985, 12:00:00 AM-1985",FEMALE,Los Angeles,,USA,Retail,"28-07/28/2023, 12:00:00 AM-2023"
+C0386,VIKRAM KUMAR,1975/05/14,Male,Pune,Maharashtra,India,Retail,"18-11/18/2024, 12:00:00 AM-2024"
+C0387,nitin Joshi,1985/10/26,Male,Pune,Maharashtra,IND,Retail,"18-08/18/2024, 12:00:00 AM-2024"
+C0388,Matthew Jackson,1976/05/06,male,New York,New York,United States,Wealth,20-03-2022
+C0389,ANKIT RAO,1976-11-24,M,Pune,Maharashtra,IND,Retail,2024-06-04
+C0390,sarah Harris,3/15/1991,Female,Phoenix,AZ,United States,Retail,5/23/2024
+C0391,Jessica Wilson,"10-09/10/1976, 12:00:00 AM-1976",female,Melbourne,Victoria,AU,Retail,28-05-2021
+C0392,ravi verma,25-05-1985,m,Delhi,Delhi,IND,Retail,2022-05-25
+C0393,REKHA MEHTA,1975-09-28,F,Hyderabad,Telangana,IN,Wealth,5/11/2020
+C0394,JOHN WILSON,1986/10/27,MALE,Brisbane,,AUS,Retail,2023/08/14
+C0395,rahul Gupta,7/27/1972,MALE,Delhi,DL,IN,Retail,25-10-2022
+C0396,rebecca thomas,"11-08/11/1983, 12:00:00 AM-1983",f,Phoenix,AZ,USA,Retail,2021/01/02
+C0397,James Taylor,1973/01/16,M,Birmingham,,UK,Retail,2020/05/10
+C0398,Ajay Desai,1971/05/14,MALE,Pune,Maharashtra,India,Retail,2021-10-08
+C0399,kavita nair,7/24/1974,F,Mumbai,Maharashtra,IND,Retail,22-01-2022
+C0400,Amy Davis,2/4/1993,F,Edinburgh,,UK,Retail,2023/05/24
+C0401,divya Gupta,04-02-1974,Female,Chennai,,IND,Retail,2020-05-18
+C0402,ARUN IYER,20-11-1969,MALE,Hyderabad,TS,IN,Retail,9/24/2023
+C0403,STEVEN DAVIS,"17-05/17/1974, 12:00:00 AM-1974",M,Sydney,NSW,AU,Retail,"19-03/19/2020, 12:00:00 AM-2020"
+C0404,nisha Desai,1971/06/04,FEMALE,Mumbai,MH,IN,Retail,2024-06-21
+C0405,DANIEL JOHNSON,,Male,Manchester,,GB,Retail,19-03-2024
+C0406,SURESH NAIR,1992-02-02,m,Pune,MH,India,Retail,04-04-2023
+C0407,ARUN PATEL,01-05-1987,M,Bengaluru,Karnataka,India,Wealth,27-03-2022
+C0408,thomas Jackson,1993/06/24,male,Los Angeles,California,United States,Wealth,05-01-2023
+C0409,lisa White,10/22/1978,f,Sydney,,AU,Retail,14-03-2022
+C0410,arun Joshi,1983/01/01,male,Delhi,Delhi,IN,Retail,2024-04-22
+C0411,VIKRAM NAIR,,Male,Delhi,Delhi,IND,Retail,2021/01/03
+C0412,rebecca Wilson,11/11/1978,f,Glasgow,Scotland,UK,Retail,2024-09-18
+C0413,Nicole Smith,7/4/1984,female,Glasgow,,United Kingdom,Retail,2021-04-13
+C0414,laura taylor,1979/05/08,f,Phoenix,Arizona,US,Retail,04-04-2020
+C0415,Pooja Rao,3/12/1973,,Mumbai,Maharashtra,India,Retail,"15-09/15/2022, 12:00:00 AM-2022"
+C0416,Daniel Thomas,04-04-1980,MALE,Melbourne,VIC,AU,Retail,16-05-2024
+C0417,PRIYA PILLAI,1994-12-19,FEMALE,Delhi,Delhi,IN,Retail,"1-01/01/2023, 12:00:00 AM-2023"
+C0418,AMY JONES,1979/08/04,F,Glasgow,,GB,Wealth,04-03-2023
+C0419,Vijay Mehta,1970/02/03,MALE,Pune,MH,IN,Retail,2021-06-05
+C0420,david williams,1987/06/25,m,Phoenix,,USA,Retail,11/12/2023
+C0421,STEVEN MARTIN,1979/08/03,m,Brisbane,QLD,Australia,Retail,3/4/2024
+C0422,Matthew Thomas,7/4/1982,Male,Los Angeles,California,United States,Retail,2022-02-08
+C0423,Manish Kumar,"2-02/02/1977, 12:00:00 AM-1977",M,Hyderabad,Telangana,IN,Retail,2022-11-06
+C0424,AMIT JOSHI,17-09-1976,male,Kolkata,West Bengal,India,Retail,24-12-2023
+C0425,Richard Jackson,15-12-1981,M,Glasgow,,United Kingdom,Wealth,2023/07/20
+C0426,vijay rao,10/11/1975,m,Hyderabad,TS,India,Retail,6/3/2023
+C0427,neha Desai,"5-01/05/1987, 12:00:00 AM-1987",female,Chennai,TN,IN,Retail,8/21/2021
+C0428,meena Pillai,1/24/1977,FEMALE,Delhi,Delhi,IND,Retail,14-02-2021
+C0429,NICOLE ANDERSON,13-12-1970,F,Edinburgh,Scotland,United Kingdom,Wealth,2021-05-26
+C0430,JESSICA THOMAS,4/25/1974,F,London,England,GB,Retail,"18-02/18/2020, 12:00:00 AM-2020"
+C0431,JAMES MILLER,1975-04-20,M,Phoenix,AZ,USA,Retail,"23-07/23/2024, 12:00:00 AM-2024"
+C0432,prashant rao,,m,Bengaluru,KA,IN,Retail,8/25/2020
+C0433,SWATI SINGH,1981/04/01,F,Chennai,Tamil Nadu,IN,Retail,14-03-2022
+C0434,lisa Harris,1985/05/16,FEMALE,Los Angeles,California,US,Retail,5/13/2022
+C0435,rahul Reddy,,M,Pune,MH,India,Retail,5/28/2021
+C0436,HANNAH ANDERSON,1972/05/02,f,Birmingham,,UK,Wealth,2020/08/13
+C0437,SWATI SHARMA,1970/12/15,F,Hyderabad,Telangana,IN,Wealth,8/5/2023
+C0438,Nitin Nair,20-05-1989,M,Kolkata,WB,IN,Retail,17-08-2022
+C0439,Michael Brown,08-09-1978,MALE,Brisbane,QLD,AUS,Retail,2020-07-01
+C0440,ravi Pillai,27-11-1970,,Delhi,DL,IND,Retail,11/26/2024
+C0441,Neha Kumar,,female,Mumbai,MH,IND,Retail,8/14/2023
+C0442,nitin rao,11-09-1987,male,Delhi,Delhi,IN,Retail,7/24/2022
+C0443,laura Miller,17-12-1993,FEMALE,Chicago,IL,US,Retail,"15-09/15/2020, 12:00:00 AM-2020"
+C0444,NISHA GUPTA,"26-07/26/1983, 12:00:00 AM-1983",F,Pune,Maharashtra,India,Retail,04-12-2021
+C0445,MATTHEW WILSON,"24-02/24/1988, 12:00:00 AM-1988",m,Edinburgh,Scotland,United Kingdom,Retail,"26-06/26/2024, 12:00:00 AM-2024"
+C0446,Robert White,"28-03/28/1978, 12:00:00 AM-1978",Male,New York,New York,US,Retail,2020-04-22
+C0447,ritu Reddy,10/4/1990,Female,Chennai,TN,IN,Wealth,"5-01/05/2023, 12:00:00 AM-2023"
+C0448,deepak singh,1987/09/25,MALE,Mumbai,Maharashtra,India,Retail,2023/11/18
+C0449,rachel thomas,11/25/1984,Female,Chicago,Illinois,US,Retail,3/27/2021
+C0450,Arun Verma,1985/07/27,M,Delhi,DL,IND,Retail,"17-10/17/2022, 12:00:00 AM-2022"
+C0451,SARAH THOMAS,26-08-1977,Female,Melbourne,Victoria,AU,Wealth,2024/08/27
+C0452,ANKIT SINGH,28-07-1987,male,Chennai,TN,IND,Wealth,2023/04/15
+C0453,Ananya Rao,1991/06/20,F,Pune,MH,IND,Retail,11-06-2024
+C0454,Joseph Wilson,05-07-1978,male,Brisbane,QLD,Australia,Wealth,25-09-2022
+C0455,rebecca Davis,"26-02/26/1993, 12:00:00 AM-1993",FEMALE,Brisbane,QLD,Australia,Retail,17-05-2022
+C0456,ritu Nair,1986-11-10,female,Mumbai,MH,IND,Retail,01-11-2024
+C0457,lisa Thomas,"23-04/23/1992, 12:00:00 AM-1992",f,Edinburgh,,UK,Retail,1/1/2021
+C0458,JAMES BROWN,"21-10/21/1982, 12:00:00 AM-1982",m,New York,New York,USA,Retail,2022-02-13
+C0459,Sarah Wilson,1976/05/03,FEMALE,Chicago,Illinois,United States,Retail,"13-11/13/2020, 12:00:00 AM-2020"
+C0460,Sapna Shah,25-11-1973,FEMALE,Delhi,,India,Retail,2022/03/28
+C0461,steven Harris,1983-06-18,male,Sydney,,Australia,Retail,2024-05-28
+C0462,sarah Miller,1972-04-10,f,New York,New York,US,Retail,"4-05/04/2022, 12:00:00 AM-2022"
+C0463,Richard Anderson,,m,Sydney,NSW,AU,Retail,10/11/2022
+C0464,SANJAY GUPTA,24-01-1982,M,Bengaluru,KA,IND,Wealth,1/7/2024
+C0465,michael Williams,10/21/1991,Male,Glasgow,Scotland,UK,Wealth,18-12-2021
+C0466,Andrew Smith,1982-05-28,m,Sydney,New South Wales,AU,Retail,2024-02-09
+C0467,hannah white,1/28/1988,FEMALE,London,,United Kingdom,Retail,23-03-2023
+C0468,RAJESH PATEL,"28-08/28/1986, 12:00:00 AM-1986",MALE,Chennai,Tamil Nadu,IN,Retail,18-11-2024
+C0469,RICHARD WILSON,04-11-1993,M,Melbourne,VIC,AUS,Retail,2023/03/18
+C0470,LAURA THOMAS,1970-08-06,FEMALE,New York,,USA,Retail,2021/03/20
+C0471,Pooja Gupta,1984/12/17,Female,Hyderabad,TS,India,Retail,2023-06-01
+C0472,John Brown,19-08-1987,M,Manchester,,United Kingdom,Retail,2021/04/12
+C0473,David Williams,15-08-1991,male,San Francisco,California,USA,Retail,9/15/2022
+C0474,JOHN BROWN,15-10-1982,M,Brisbane,Queensland,AU,Retail,8/6/2022
+C0475,michael williams,1975-05-24,M,Los Angeles,CA,US,Retail,18-09-2023
+C0476,RITU DESAI,23-09-1969,female,Mumbai,MH,India,Retail,"28-10/28/2022, 12:00:00 AM-2022"
+C0477,OLIVIA THOMAS,11/20/1992,F,Sydney,NSW,Australia,Retail,"23-06/23/2020, 12:00:00 AM-2020"
+C0478,priya Desai,,Female,Hyderabad,TS,IND,Wealth,"9-08/09/2024, 12:00:00 AM-2024"
+C0479,sophie miller,22-06-1988,f,Los Angeles,California,US,Retail,"19-05/19/2023, 12:00:00 AM-2023"
+C0480,CHRISTOPHER DAVIS,"17-01/17/1971, 12:00:00 AM-1971",Male,Edinburgh,Scotland,GB,Retail,"5-01/05/2020, 12:00:00 AM-2020"
+C0481,VIKRAM SHARMA,6/16/1973,male,Mumbai,MH,IN,Retail,"13-07/13/2020, 12:00:00 AM-2020"
+C0482,Hannah Anderson,1982-03-02,FEMALE,Sydney,NSW,Australia,Retail,2022/07/15
+C0483,DAVID WILSON,1982-11-28,male,Manchester,,United Kingdom,Retail,2022/04/11
+C0484,MEENA RAO,1981-02-25,F,Pune,Maharashtra,IND,Retail,3/28/2024
+C0485,charlotte smith,,f,Sydney,NSW,Australia,Retail,2022-09-19
+C0486,Sapna Joshi,"27-10/27/1991, 12:00:00 AM-1991",f,Delhi,DL,IND,Retail,2021-01-05
+C0487,Rachel Harris,,F,Houston,TX,United States,Retail,"14-11/14/2020, 12:00:00 AM-2020"
+C0488,neha Nair,"12-01/12/1969, 12:00:00 AM-1969",F,Chennai,TN,IND,Retail,"19-06/19/2022, 12:00:00 AM-2022"
+C0489,RAHUL VERMA,"11-03/11/1980, 12:00:00 AM-1980",Male,Delhi,Delhi,IN,Wealth,"26-02/26/2021, 12:00:00 AM-2021"
+C0490,jennifer anderson,"4-12/04/1988, 12:00:00 AM-1988",female,Melbourne,VIC,AU,Retail,"24-05/24/2022, 12:00:00 AM-2022"
+C0491,SOPHIE MILLER,"10-04/10/1982, 12:00:00 AM-1982",FEMALE,Sydney,New South Wales,AUS,Wealth,8/2/2020
+C0492,amit verma,"4-02/04/1993, 12:00:00 AM-1993",male,Mumbai,MH,IND,Wealth,"17-03/17/2021, 12:00:00 AM-2021"
+C0493,nicole Williams,12/17/1977,F,Birmingham,England,UK,Retail,"20-06/20/2023, 12:00:00 AM-2023"
+C0494,laura brown,2/7/1992,FEMALE,Glasgow,,United Kingdom,Retail,"7-01/07/2021, 12:00:00 AM-2021"
+C0495,rebecca Harris,1977-03-03,Female,Glasgow,,United Kingdom,Retail,27-09-2024
+C0496,emily jones,1979-01-04,female,Sydney,NSW,Australia,Retail,2022/08/20
+C0497,Rahul Iyer,1992/01/22,M,Delhi,Delhi,IND,Wealth,2024-05-04
+C0498,rahul Patel,1992-11-25,M,Hyderabad,TS,IN,Retail,2023/12/19
+C0499,Olivia Taylor,1979/06/24,FEMALE,New York,NY,United States,Retail,12-09-2023
+C0500,WILLIAM ANDERSON,25-07-1976,MALE,Edinburgh,Scotland,UK,Retail,2023/10/04
+C0501,mark brown,8/26/1987,,Edinburgh,,UK,Retail,"6-04/06/2021, 12:00:00 AM-2021"
+C0502,sunita mehta,15-01-1990,FEMALE,Mumbai,MH,IN,Retail,10/19/2020
+C0503,Vikram Iyer,24-01-1992,M,Pune,Maharashtra,India,Retail,9/24/2020
+C0504,John Brown,1979/11/03,male,Los Angeles,CA,USA,Retail,2023-04-05
+C0505,SHRUTI REDDY,25-01-1975,f,Kolkata,WB,India,Retail,21-01-2024
+C0506,EMMA JONES,"25-07/25/1973, 12:00:00 AM-1973",f,Chicago,Illinois,United States,Retail,2024/09/09
+C0507,ARUN GUPTA,1977-05-20,m,Hyderabad,,IND,Wealth,3/10/2022
+C0508,sarah Thomas,1972/01/07,f,Glasgow,,United Kingdom,Retail,12/26/2022
+C0509,john Anderson,8/6/1973,Male,Los Angeles,,USA,Retail,2024/09/09
+C0510,Matthew Martin,"9-08/09/1969, 12:00:00 AM-1969",M,Melbourne,VIC,AU,Retail,1/8/2022
+C0511,nisha Singh,1973-03-11,f,Mumbai,Maharashtra,IND,Retail,2/4/2022
+C0512,Daniel Harris,,m,Brisbane,QLD,AUS,Retail,27-04-2022
+C0513,Jessica Taylor,1987-01-15,Female,Chicago,Illinois,USA,Retail,"20-03/20/2023, 12:00:00 AM-2023"
+C0514,JESSICA WHITE,1975-07-11,f,London,,UK,Retail,3/17/2020
+C0515,MANISH SHARMA,1977/07/14,M,Mumbai,MH,IND,Retail,"5-07/05/2021, 12:00:00 AM-2021"
+C0516,sophie Martin,"3-08/03/1982, 12:00:00 AM-1982",F,Edinburgh,,UK,Retail,10-06-2024
+C0517,jennifer Wilson,1987/08/05,Female,New York,NY,US,Retail,2020/02/10
+C0518,RAHUL SHARMA,"21-12/21/1972, 12:00:00 AM-1972",M,Kolkata,WB,IN,Wealth,2021-02-13
+C0519,Deepak Pillai,"17-12/17/1987, 12:00:00 AM-1987",M,Chennai,TN,IN,Wealth,2024-09-03
+C0520,lisa Williams,1980/07/16,f,Los Angeles,CA,United States,Retail,18-07-2023
+C0521,emily Martin,23-03-1984,f,Houston,Texas,US,Retail,2023/06/22
+C0522,pooja shah,,f,Pune,Maharashtra,India,Wealth,2023-12-12
+C0523,david Johnson,1983/04/24,Male,Birmingham,,United Kingdom,Retail,28-09-2024
+C0524,Rahul Verma,1970-06-03,male,Chennai,TN,IND,Retail,2024-04-03
+C0525,jennifer thomas,1979/01/17,F,London,,GB,Retail,2020/01/16
+C0526,jennifer Jones,3/20/1979,female,Phoenix,Arizona,US,Retail,"1-11/01/2020, 12:00:00 AM-2020"
+C0527,Joseph Smith,"5-10/05/1989, 12:00:00 AM-1989",M,Chicago,IL,US,Wealth,04-05-2023
+C0528,Mark Williams,11-02-1991,male,San Francisco,CA,USA,Retail,6/17/2021
+C0529,CHARLOTTE ANDERSON,"11-10/11/1977, 12:00:00 AM-1977",female,Edinburgh,,GB,Wealth,4/21/2024
+C0530,ritu mehta,1993/06/24,,Delhi,DL,IN,Retail,2024/05/19
+C0531,ANJALI SHAH,1990-12-03,F,Mumbai,Maharashtra,India,Retail,2020-11-04
+C0532,Anjali Shah,6/22/1981,female,Delhi,Delhi,India,Retail,6/22/2020
+C0533,Ankit Patel,"1-07/01/1975, 12:00:00 AM-1975",male,Hyderabad,Telangana,IND,Retail,2020/04/04
+C0534,ROBERT MILLER,2/3/1974,,Phoenix,AZ,USA,Retail,22-01-2024
+C0535,NITIN NAIR,1971/05/14,MALE,Kolkata,WB,India,Retail,07-07-2024
+C0536,MICHAEL BROWN,8/21/1990,M,Phoenix,Arizona,USA,Wealth,14-07-2022
+C0537,JENNIFER BROWN,2/28/1976,FEMALE,Phoenix,AZ,United States,Retail,"7-08/07/2020, 12:00:00 AM-2020"
+C0538,DEEPAK SHAH,02-06-1986,,Delhi,Delhi,IND,Retail,2020/12/26
+C0539,rahul sharma,11-12-1971,MALE,Bengaluru,KA,India,Retail,7/25/2021
+C0540,Ankit Mehta,4/25/1969,m,Mumbai,MH,India,Retail,"12-05/12/2020, 12:00:00 AM-2020"
+C0541,STEVEN JONES,1977/05/17,m,Los Angeles,California,United States,Wealth,5/9/2021
+C0542,Jennifer Williams,9/13/1974,f,Brisbane,,Australia,Retail,18-01-2024
+C0543,ananya Desai,7/25/1969,female,Bengaluru,KA,India,Retail,2024/03/14
+C0544,LISA JACKSON,17-04-1974,Female,Edinburgh,,United Kingdom,Retail,2021-12-01
+C0545,joseph williams,"26-01/26/1973, 12:00:00 AM-1973",M,San Francisco,California,United States,Wealth,12/15/2020
+C0546,John Martin,,MALE,Phoenix,AZ,United States,Wealth,22-04-2023
+C0547,sapna verma,1973/07/12,Female,Bengaluru,Karnataka,IN,Retail,2021-09-11
+C0548,rajesh Rao,25-03-1994,m,Mumbai,MH,India,Retail,28-10-2023
+C0549,james Davis,1981/11/15,M,London,,United Kingdom,Retail,2020/02/28
+C0550,MICHAEL WILLIAMS,9/4/1971,M,London,"""""",GB,Wealth,2024-07-17
+C0551,Emma Miller,1972-05-15,Female,Birmingham,,GB,Retail,2020/03/05
+C0552,JAMES TAYLOR,,male,Houston,Texas,United States,Retail,5/19/2021
+C0553,Charlotte Williams,"17-01/17/1976, 12:00:00 AM-1976",Female,Brisbane,Queensland,Australia,Retail,2021-03-25
+C0554,NISHA SINGH,1988-12-16,female,Delhi,Delhi,IN,Retail,2023-11-13
+C0555,nicole brown,1974-11-06,f,Edinburgh,Scotland,UK,Retail,"3-02/03/2021, 12:00:00 AM-2021"
+C0556,MANISH NAIR,01-07-1988,,Chennai,TN,IN,Retail,"11-03/11/2021, 12:00:00 AM-2021"
+C0557,Laura Harris,1969-11-14,f,Los Angeles,,United States,Retail,9/23/2024
+C0558,Sophie Smith,1983-12-19,F,Chicago,IL,USA,Retail,2022-07-12
+C0559,Jessica Harris,1973-04-11,F,San Francisco,California,United States,Wealth,12-02-2023
+C0560,Rekha Iyer,1994-11-13,F,Hyderabad,TS,IN,Retail,05-12-2023
+C0561,daniel Martin,1977-10-22,,Melbourne,Victoria,AU,Retail,23-05-2020
+C0562,Jessica White,,F,Edinburgh,Scotland,United Kingdom,Wealth,"8-06/08/2023, 12:00:00 AM-2023"
+C0563,ARUN SHARMA,"7-09/07/1978, 12:00:00 AM-1978",M,Hyderabad,TS,IND,Retail,2021/03/05
+C0564,DIVYA IYER,12-12-1984,female,Chennai,TN,IN,Retail,"11-10/11/2024, 12:00:00 AM-2024"
+C0565,mark Jones,"18-01/18/1980, 12:00:00 AM-1980",MALE,Los Angeles,California,US,Retail,2023-12-01
+C0566,NITIN DESAI,1971/04/23,Male,Pune,Maharashtra,IND,Retail,2024-06-03
+C0567,Rachel Wilson,1987-02-09,female,Manchester,,United Kingdom,Retail,2024/04/24
+C0568,DIVYA MEHTA,"21-10/21/1977, 12:00:00 AM-1977",Female,Pune,MH,IND,Retail,12/3/2023
+C0569,richard Brown,1981-02-25,m,Glasgow,,GB,Retail,2020-04-01
+C0570,Meena Kumar,"14-11/14/1983, 12:00:00 AM-1983",F,Delhi,Delhi,IN,Retail,2021/08/03
+C0571,sophie Anderson,1994-09-17,f,London,England,GB,Retail,2020/06/20
+C0572,PRASHANT JOSHI,23-11-1989,m,Kolkata,West Bengal,IN,Wealth,2020/03/22
+C0573,Ajay Sharma,1972/12/15,MALE,Chennai,TN,IN,Wealth,24-04-2022
+C0574,Emma Jones,1989-09-27,FEMALE,London,"""""",UK,Retail,"15-09/15/2023, 12:00:00 AM-2023"
+C0575,LAURA BROWN,1979-09-19,f,New York,New York,United States,Retail,8/14/2022
+C0576,nisha iyer,,FEMALE,Mumbai,MH,IND,Retail,21-09-2024
+C0577,DAVID JACKSON,1993-12-01,MALE,Houston,Texas,United States,Wealth,"4-12/04/2024, 12:00:00 AM-2024"
+C0578,SARAH DAVIS,1978-06-24,Female,Houston,,US,Wealth,"23-05/23/2023, 12:00:00 AM-2023"
+C0579,SARAH ANDERSON,11/24/1992,female,Melbourne,Victoria,AU,Retail,16-02-2021
+C0580,Meena Kumar,20-06-1977,female,Bengaluru,Karnataka,India,Wealth,"4-07/04/2020, 12:00:00 AM-2020"
+C0581,DAVID WILLIAMS,"23-03/23/1990, 12:00:00 AM-1990",m,Melbourne,Victoria,AU,Retail,03-03-2021
+C0582,emily Smith,4/23/1980,Female,Los Angeles,CA,US,Retail,2023-11-06
+C0583,rahul desai,1984/01/09,M,Pune,Maharashtra,India,Retail,2020-03-10
+C0584,RITU NAIR,"6-05/06/1971, 12:00:00 AM-1971",Female,Chennai,Tamil Nadu,IND,Retail,10/20/2020
+C0585,JENNIFER JACKSON,1975-12-01,Female,Brisbane,Queensland,AU,Retail,"13-12/13/2022, 12:00:00 AM-2022"
+C0586,Ajay Mehta,28-10-1991,male,Chennai,TN,IN,Retail,7/6/2022
+C0587,OLIVIA SMITH,1991/05/21,Female,Edinburgh,Scotland,United Kingdom,Retail,"24-01/24/2020, 12:00:00 AM-2020"
+C0588,Vijay Singh,"9-04/09/1973, 12:00:00 AM-1973",M,Hyderabad,Telangana,IND,Retail,2021-12-11
+C0589,Nisha Singh,5/15/1980,f,Pune,Maharashtra,IN,Retail,"21-11/21/2023, 12:00:00 AM-2023"
+C0590,lisa smith,"10-04/10/1990, 12:00:00 AM-1990",female,Birmingham,,UK,Wealth,"27-03/27/2023, 12:00:00 AM-2023"
+C0591,JOSEPH MARTIN,,m,New York,NY,United States,Retail,2023-10-19
+C0592,deepak Nair,11/9/1988,Male,Pune,Maharashtra,IN,Wealth,7/27/2022
+C0593,ANDREW BROWN,2/12/1973,male,Birmingham,England,UK,Wealth,1/28/2021
+C0594,meena mehta,06-02-1977,Female,Delhi,Delhi,India,Retail,1/10/2023
+C0595,emma Miller,1993-06-02,Female,Phoenix,AZ,US,Retail,2023/03/14
+C0596,SOPHIE THOMAS,"15-11/15/1973, 12:00:00 AM-1973",F,Phoenix,AZ,USA,Retail,08-03-2022
+C0597,Robert Wilson,1970-07-16,MALE,Los Angeles,CA,United States,Retail,"5-05/05/2023, 12:00:00 AM-2023"
+C0598,William Williams,02-12-1994,male,London,,UK,Retail,3/10/2022
+C0599,emma davis,09-05-1984,female,Edinburgh,,United Kingdom,Retail,2023/12/03
+C0600,Vikram Desai,"13-04/13/1986, 12:00:00 AM-1986",Male,Chennai,,IN,Retail,12/1/2024
+C0601,neha Gupta,05-06-1973,f,Pune,MH,India,Wealth,"1-04/01/2021, 12:00:00 AM-2021"
+C0602,christopher williams,04-09-1988,m,Phoenix,,US,Retail,14-11-2024
+C0603,matthew smith,13-05-1969,MALE,Los Angeles,CA,United States,Retail,"15-03/15/2020, 12:00:00 AM-2020"
+C0604,rahul pillai,2/27/1990,M,Bengaluru,KA,India,Retail,"23-07/23/2022, 12:00:00 AM-2022"
+C0605,NITIN KUMAR,10-11-1982,Male,Pune,MH,IN,Retail,2022/01/09
+C0606,matthew White,1973-02-27,M,Chicago,IL,USA,Wealth,9/1/2024
+C0607,ARUN RAO,"16-04/16/1986, 12:00:00 AM-1986",male,Kolkata,WB,IN,Retail,2022/11/12
+C0608,Ravi Desai,1975-11-08,Male,Chennai,TN,India,Retail,2020-05-13
+C0609,JENNIFER WILLIAMS,1972-01-14,Female,London,England,United Kingdom,Retail,10/14/2021
+C0610,christopher brown,1988/06/14,MALE,Phoenix,AZ,USA,Retail,2020/09/09
+C0611,THOMAS WHITE,1971/02/11,Male,San Francisco,CA,USA,Retail,09-01-2022
+C0612,shruti reddy,"18-09/18/1985, 12:00:00 AM-1985",Female,Delhi,DL,India,Wealth,2024-10-14
+C0613,ROBERT WILLIAMS,1975/12/05,MALE,Houston,Texas,USA,Retail,5/7/2021
+C0614,CHRISTOPHER MARTIN,1975-10-19,male,Houston,TX,United States,Retail,28-01-2024
+C0615,david davis,1992/10/22,m,Melbourne,VIC,Australia,Retail,2020/05/08
+C0616,SUNITA JOSHI,1975-07-13,f,Delhi,Delhi,IN,Wealth,2021/01/01
+C0617,mark Miller,6/25/1977,Male,Manchester,England,United Kingdom,Retail,"28-09/28/2023, 12:00:00 AM-2023"
+C0618,Nisha Verma,19-05-1994,FEMALE,Pune,MH,IND,Wealth,2020/11/27
+C0619,PRASHANT REDDY,"27-11/27/1977, 12:00:00 AM-1977",M,Bengaluru,KA,India,Retail,9/24/2020
+C0620,Suresh Desai,1986/11/22,M,Delhi,Delhi,IND,Wealth,2022/07/11
+C0621,Sanjay Singh,"12-08/12/1987, 12:00:00 AM-1987",Male,Chennai,TN,India,Retail,"15-06/15/2024, 12:00:00 AM-2024"
+C0622,Nicole Taylor,6/2/1975,Female,Los Angeles,CA,USA,Retail,5/6/2020
+C0623,deepak kumar,04-09-1991,MALE,Pune,MH,IN,Retail,25-12-2020
+C0624,nitin iyer,"6-08/06/1979, 12:00:00 AM-1979",m,Mumbai,Maharashtra,India,Retail,12/6/2023
+C0625,RAJESH PATEL,2/7/1988,M,Bengaluru,KA,India,Retail,23-01-2022
+C0626,Ravi Joshi,"26-11/26/1979, 12:00:00 AM-1979",MALE,Pune,,IN,Retail,22-02-2021
+C0627,RAJESH NAIR,15-05-1973,m,Bengaluru,KA,IND,Retail,2021-07-10
+C0628,emma johnson,"23-04/23/1992, 12:00:00 AM-1992",F,Edinburgh,,UK,Wealth,2024-07-13
+C0629,Hannah Thomas,1975/12/26,F,Manchester,England,United Kingdom,Retail,26-09-2023
+C0630,SAPNA NAIR,7/3/1970,f,Delhi,Delhi,IND,Retail,03-08-2021
+C0631,rajesh desai,1977-08-06,Male,Hyderabad,Telangana,IND,Retail,4/26/2024
+C0632,rebecca Jones,"3-02/03/1987, 12:00:00 AM-1987",FEMALE,London,,UK,Retail,"17-07/17/2024, 12:00:00 AM-2024"
+C0633,Ravi Rao,"4-03/04/1970, 12:00:00 AM-1970",Male,Mumbai,Maharashtra,India,Retail,11/23/2023
+C0634,steven Brown,,M,London,,United Kingdom,Retail,2022/08/05
+C0635,Lisa Williams,1983/07/17,FEMALE,Glasgow,Scotland,United Kingdom,Retail,2024/11/14
+C0636,christopher Thomas,"5-10/05/1990, 12:00:00 AM-1990",M,Edinburgh,,GB,Retail,2023-03-07
+C0637,kavita verma,"23-08/23/1976, 12:00:00 AM-1976",Female,Delhi,,India,Retail,9/15/2020
+C0638,sanjay Mehta,11/17/1989,Male,Hyderabad,TS,IND,Retail,05-01-2022
+C0639,rachel martin,5/20/1971,FEMALE,London,England,United Kingdom,Wealth,2023-04-07
+C0640,SHRUTI JOSHI,2/9/1987,female,Mumbai,MH,India,Wealth,2020/07/09
+C0641,kavita Kumar,1986/09/15,F,Bengaluru,Karnataka,IN,Retail,"12-10/12/2024, 12:00:00 AM-2024"
+C0642,david white,1993-12-02,,Sydney,New South Wales,AUS,Wealth,2022-05-07
+C0643,AJAY VERMA,1992/04/04,Male,Bengaluru,KA,IN,Retail,2020/01/26
+C0644,Olivia Anderson,1987/03/26,F,Glasgow,,GB,Retail,27-02-2021
+C0645,Lisa Anderson,1976/10/10,female,New York,New York,United States,Retail,06-05-2022
+C0646,lisa thomas,"6-04/06/1979, 12:00:00 AM-1979",F,San Francisco,California,USA,Retail,2020/04/26
+C0647,Amy Thomas,8/1/1987,F,Manchester,,GB,Retail,2020/12/15
+C0648,Ajay Nair,"9-12/09/1983, 12:00:00 AM-1983",m,Delhi,DL,IN,Retail,"9-02/09/2021, 12:00:00 AM-2021"
+C0649,Daniel Johnson,"7-05/07/1982, 12:00:00 AM-1982",M,San Francisco,CA,US,Retail,"23-03/23/2024, 12:00:00 AM-2024"
+C0650,Rebecca Jones,"14-11/14/1975, 12:00:00 AM-1975",female,Birmingham,England,UK,Retail,5/26/2023
+C0651,Matthew Thomas,28-08-1985,male,Edinburgh,,UK,Retail,2022-10-05
+C0652,Sapna Reddy,4/2/1980,f,Pune,Maharashtra,India,Retail,2021-05-04
+C0653,sophie White,"4-11/04/1970, 12:00:00 AM-1970",F,Edinburgh,Scotland,United Kingdom,Retail,2023-06-20
+C0654,priya Iyer,1969-03-11,female,Hyderabad,Telangana,IN,Wealth,7/17/2021
+C0655,SAPNA VERMA,1972/02/11,F,Bengaluru,KA,IND,Retail,"7-10/07/2021, 12:00:00 AM-2021"
+C0656,RICHARD JACKSON,1988-05-28,MALE,Melbourne,Victoria,AUS,Retail,2022-11-20
+C0657,Michael Williams,"7-12/07/1984, 12:00:00 AM-1984",male,Chicago,Illinois,US,Retail,04-08-2024
+C0658,William Johnson,3/26/1976,Male,Melbourne,Victoria,AU,Retail,2024/03/11
+C0659,SHRUTI REDDY,1990-01-27,f,Kolkata,West Bengal,IND,Retail,1/7/2020
+C0660,amit Nair,1984/07/11,male,Pune,MH,India,Retail,03-12-2024
+C0661,Vijay Gupta,"1-02/01/1983, 12:00:00 AM-1983",m,Kolkata,West Bengal,IN,Retail,9/15/2020
+C0662,priya shah,5/13/1992,FEMALE,Bengaluru,KA,IND,Retail,2024/06/11
+C0663,olivia Brown,28-10-1970,Female,Birmingham,,GB,Retail,2023-08-20
+C0664,matthew Smith,22-03-1994,,Los Angeles,California,United States,Retail,10/23/2022
+C0665,Rebecca White,6/15/1990,FEMALE,Sydney,NSW,Australia,Retail,"15-09/15/2022, 12:00:00 AM-2022"
+C0666,Divya Sharma,7/18/1976,F,Chennai,Tamil Nadu,India,Retail,2020-05-13
+C0667,neha Patel,"4-04/04/1971, 12:00:00 AM-1971",f,Kolkata,West Bengal,India,Retail,27-11-2023
+C0668,joseph Wilson,1984-09-19,MALE,Glasgow,Scotland,GB,Wealth,12-02-2021
+C0669,neha Pillai,1978-12-02,,Delhi,DL,IN,Retail,"24-11/24/2022, 12:00:00 AM-2022"
+C0670,anjali Rao,16-12-1975,female,Hyderabad,,India,Retail,26-02-2022
+C0671,SARAH MARTIN,,Female,Glasgow,,UK,Retail,2020/07/19
+C0672,DIVYA JOSHI,11/22/1971,Female,Mumbai,Maharashtra,India,Retail,1/14/2023
+C0673,Priya Desai,23-05-1983,Female,Chennai,TN,India,Wealth,2022-06-22
+C0674,Kavita Nair,1979-09-19,Female,Delhi,Delhi,India,Wealth,2023/03/25
+C0675,Andrew Taylor,1991/10/22,m,Manchester,,GB,Retail,2021/11/23
+C0676,Rebecca Smith,"11-07/11/1987, 12:00:00 AM-1987",f,Los Angeles,California,USA,Retail,21-12-2024
+C0677,MANISH KUMAR,,Male,Mumbai,MH,India,Retail,2022-07-14
+C0678,christopher white,23-09-1994,MALE,Manchester,England,UK,Wealth,2024/04/25
+C0679,matthew Smith,18-07-1970,M,London,England,UK,Retail,2022/10/23
+C0680,Charlotte Thomas,"2-07/02/1971, 12:00:00 AM-1971",FEMALE,Birmingham,England,United Kingdom,Retail,"28-03/28/2021, 12:00:00 AM-2021"
+C0681,sunita Joshi,1981/06/04,FEMALE,Bengaluru,KA,India,Retail,9/21/2021
+C0682,james harris,"24-12/24/1991, 12:00:00 AM-1991",m,London,"""""",UK,Retail,2023-06-15
+C0683,sapna Sharma,"3-05/03/1991, 12:00:00 AM-1991",f,Chennai,,IN,Wealth,"15-09/15/2022, 12:00:00 AM-2022"
+C0684,MICHAEL JOHNSON,"8-03/08/1971, 12:00:00 AM-1971",M,Glasgow,,United Kingdom,Retail,12/20/2020
+C0685,DEEPAK RAO,1975-04-12,MALE,Chennai,TN,IN,Retail,2021-02-18
+C0686,SWATI KUMAR,6/11/1977,female,Delhi,,IN,Retail,2022/10/09
+C0687,Sapna Gupta,"17-04/17/1978, 12:00:00 AM-1978",f,Chennai,Tamil Nadu,IND,Retail,2024-07-13
+C0688,Amit Joshi,11/10/1970,MALE,Bengaluru,KA,IND,Retail,2022/10/04
+C0689,john Williams,"26-10/26/1975, 12:00:00 AM-1975",Male,Houston,Texas,USA,Retail,12/1/2022
+C0690,Vijay Kumar,2/10/1974,Male,Chennai,TN,IND,Retail,2022-02-13
+C0691,daniel Smith,"15-02/15/1989, 12:00:00 AM-1989",male,Edinburgh,,United Kingdom,Retail,2021-05-28
+C0692,THOMAS BROWN,"19-01/19/1972, 12:00:00 AM-1972",male,Houston,TX,USA,Wealth,11/8/2023
+C0693,rahul Nair,"8-01/08/1988, 12:00:00 AM-1988",Male,Mumbai,Maharashtra,IN,Retail,2022-11-06
+C0694,james harris,"8-11/08/1975, 12:00:00 AM-1975",male,Manchester,England,United Kingdom,Retail,7/11/2020
+C0695,Matthew White,9/2/1989,MALE,Birmingham,,United Kingdom,Retail,2020-09-15
+C0696,Hannah Brown,"25-05/25/1991, 12:00:00 AM-1991",FEMALE,Chicago,IL,United States,Retail,2024-10-12
+C0697,sunita shah,04-08-1994,F,Chennai,TN,India,Retail,2020-01-24
+C0698,CHARLOTTE WHITE,1988/07/03,FEMALE,Sydney,New South Wales,AUS,Retail,2021-11-05
+C0699,OLIVIA SMITH,19-02-1994,female,Edinburgh,,GB,Retail,"18-04/18/2021, 12:00:00 AM-2021"
+C0700,matthew white,01-02-1988,male,Manchester,England,GB,Retail,13-09-2023
+C0701,Steven Wilson,,m,Birmingham,,UK,Wealth,08-01-2020
+C0702,ravi shah,11-11-1970,M,Delhi,Delhi,IN,Retail,2020-08-16
+C0703,rahul pillai,"9-06/09/1989, 12:00:00 AM-1989",M,Delhi,DL,India,Retail,19-02-2024
+C0704,RAJESH REDDY,3/16/1975,M,Mumbai,Maharashtra,IND,Wealth,4/22/2021
+C0705,emily Wilson,09-08-1973,F,Sydney,New South Wales,AUS,Retail,9/3/2020
+C0706,james White,11/5/1978,Male,Manchester,England,UK,Retail,2023/09/12
+C0707,Amy Thomas,07-11-1970,f,Los Angeles,CA,United States,Wealth,2024-04-11
+C0708,Ananya Singh,"22-09/22/1991, 12:00:00 AM-1991",female,Pune,MH,IND,Retail,2024-08-28
+C0709,nitin Rao,"9-08/09/1986, 12:00:00 AM-1986",M,Hyderabad,Telangana,India,Retail,"8-01/08/2021, 12:00:00 AM-2021"
+C0710,ROBERT DAVIS,"7-07/07/1978, 12:00:00 AM-1978",Male,Sydney,New South Wales,AUS,Retail,2023-05-05
+C0711,jessica Taylor,17-03-1976,F,Birmingham,England,GB,Retail,"27-01/27/2023, 12:00:00 AM-2023"
+C0712,olivia Thomas,"16-09/16/1976, 12:00:00 AM-1976",F,London,,GB,Retail,"20-11/20/2022, 12:00:00 AM-2022"
+C0713,Andrew Jones,1978/04/12,Male,Manchester,England,United Kingdom,Retail,"9-08/09/2020, 12:00:00 AM-2020"
+C0714,olivia thomas,"3-01/03/1981, 12:00:00 AM-1981",female,San Francisco,CA,US,Retail,14-07-2020
+C0715,olivia Jones,7/10/1978,f,Manchester,England,UK,Retail,2021/10/10
+C0716,Mark Harris,06-03-1994,male,Glasgow,,GB,Wealth,5/6/2022
+C0717,matthew thomas,"27-08/27/1973, 12:00:00 AM-1973",Male,Brisbane,,Australia,Retail,4/14/2023
+C0718,NICOLE WHITE,01-03-1982,F,San Francisco,California,USA,Wealth,05-05-2024
+C0719,daniel jackson,04-06-1974,MALE,London,"""""",UK,Retail,2020-03-05
+C0720,deepak Nair,1982-10-17,Male,Hyderabad,TS,India,Retail,14-09-2022
+C0721,neha Singh,1984/06/08,FEMALE,Pune,MH,IN,Retail,4/20/2021
+C0722,ankit iyer,1980-03-23,m,Chennai,Tamil Nadu,IND,Retail,16-06-2020
+C0723,MEENA REDDY,1989-05-17,F,Chennai,TN,IN,Retail,2020-01-27
+C0724,Nicole White,"4-04/04/1981, 12:00:00 AM-1981",F,London,England,GB,Wealth,"3-07/03/2022, 12:00:00 AM-2022"
+C0725,THOMAS DAVIS,1976-08-06,m,Sydney,New South Wales,Australia,Retail,2022/11/16
+C0726,richard jackson,07-12-1990,m,Edinburgh,Scotland,GB,Wealth,2021/08/27
+C0727,WILLIAM MILLER,"25-05/25/1984, 12:00:00 AM-1984",Male,Phoenix,Arizona,United States,Retail,18-10-2020
+C0728,hannah Brown,7/14/1969,F,Manchester,,GB,Retail,2022-09-09
+C0729,rahul Reddy,1985/11/16,male,Hyderabad,,IN,Retail,"12-01/12/2024, 12:00:00 AM-2024"
+C0730,CHARLOTTE THOMAS,1971-10-06,F,Birmingham,England,UK,Retail,4/1/2023
+C0731,VIKRAM DESAI,06-10-1973,Male,Chennai,TN,IND,Retail,2021/08/11
+C0732,priya pillai,,female,Kolkata,West Bengal,IN,Retail,10/1/2022
+C0733,ajay Mehta,"13-05/13/1992, 12:00:00 AM-1992",M,Chennai,Tamil Nadu,IN,Retail,2024/06/16
+C0734,Pooja Desai,1970/06/01,Female,Hyderabad,TS,India,Retail,21-07-2021
+C0735,Ritu Desai,1976/06/02,Female,Mumbai,MH,IND,Wealth,2021-01-03
+C0736,RAVI KUMAR,1984/11/02,m,Mumbai,Maharashtra,India,Retail,2021/05/25
+C0737,DANIEL MARTIN,1983-08-28,m,Los Angeles,CA,US,Retail,07-05-2023
+C0738,ajay verma,1983/12/23,m,Delhi,Delhi,IN,Retail,12/6/2023
+C0739,VIKRAM RAO,16-09-1974,M,Chennai,Tamil Nadu,IND,Retail,"9-10/09/2020, 12:00:00 AM-2020"
+C0740,DAVID BROWN,"21-11/21/1972, 12:00:00 AM-1972",Male,Sydney,NSW,AU,Retail,"20-08/20/2023, 12:00:00 AM-2023"
+C0741,CHARLOTTE THOMAS,"18-09/18/1992, 12:00:00 AM-1992",Female,Chicago,IL,US,Retail,3/10/2023
+C0742,andrew Smith,1977/11/02,Male,Edinburgh,Scotland,United Kingdom,Retail,2020-04-14
+C0743,Emily Martin,01-07-1981,female,San Francisco,CA,US,Retail,"6-06/06/2020, 12:00:00 AM-2020"
+C0744,Mark Thomas,,Male,Phoenix,Arizona,US,Retail,2023-11-07
+C0745,amy harris,8/1/1972,F,Phoenix,Arizona,US,Retail,3/5/2024
+C0746,rekha nair,1972/12/28,female,Kolkata,WB,India,Retail,2022/09/20
+C0747,ananya Mehta,14-12-1985,F,Hyderabad,Telangana,IN,Retail,2021/11/12
+C0748,Rekha Pillai,1973-04-07,FEMALE,Chennai,TN,IN,Retail,"16-08/16/2023, 12:00:00 AM-2023"
+C0749,CHRISTOPHER HARRIS,1969/01/26,male,Glasgow,Scotland,GB,Retail,2022/09/28
+C0750,rebecca smith,"15-07/15/1993, 12:00:00 AM-1993",F,Manchester,England,United Kingdom,Retail,6/4/2020
+C0751,james Taylor,1978-07-25,Male,Melbourne,Victoria,AU,Retail,01-08-2021
+C0752,VIJAY MEHTA,1974/03/15,Male,Mumbai,Maharashtra,IND,Retail,2024-08-20
+C0753,Sarah Thomas,12/22/1972,FEMALE,Melbourne,,AUS,Retail,2/13/2024
+C0754,rahul mehta,23-03-1971,Male,Hyderabad,TS,IND,Retail,2024/12/19
+C0755,David Martin,1976-10-09,M,Houston,Texas,United States,Wealth,"13-04/13/2024, 12:00:00 AM-2024"
+C0756,christopher taylor,23-02-1993,male,Los Angeles,California,USA,Retail,2023-07-22
+C0757,NISHA NAIR,1982-01-23,female,Delhi,Delhi,IND,Wealth,11-01-2020
+C0758,Michael White,,M,Edinburgh,,United Kingdom,Retail,2021-07-11
+C0759,Sunita Iyer,5/13/1981,Female,Kolkata,WB,IND,Wealth,02-02-2021
+C0760,JAMES SMITH,10/22/1992,m,Los Angeles,CA,USA,Retail,6/26/2022
+C0761,Emily Brown,9/22/1987,female,Phoenix,,United States,Retail,"6-07/06/2024, 12:00:00 AM-2024"
+C0762,NEHA SHAH,1993/07/09,female,Hyderabad,TS,IN,Wealth,2023/03/02
+C0763,sapna verma,25-01-1990,FEMALE,Chennai,TN,India,Retail,14-01-2020
+C0764,RAVI GUPTA,12-07-1992,m,Bengaluru,Karnataka,IND,Retail,2020-12-12
+C0765,rajesh Mehta,"8-02/08/1990, 12:00:00 AM-1990",Male,Chennai,Tamil Nadu,IND,Retail,2022-04-22
+C0766,Matthew Williams,9/1/1986,m,Phoenix,,USA,Retail,"22-08/22/2024, 12:00:00 AM-2024"
+C0767,suresh patel,4/17/1978,M,Bengaluru,KA,India,Wealth,2023/07/04
+C0768,Charlotte Taylor,6/19/1987,female,Phoenix,AZ,United States,Retail,2024/07/08
+C0769,vijay kumar,1983-01-26,male,Mumbai,Maharashtra,India,Retail,"8-10/08/2021, 12:00:00 AM-2021"
+C0770,Jessica Taylor,05-08-1994,FEMALE,Birmingham,,UK,Retail,11-09-2020
+C0771,VIKRAM JOSHI,12/7/1978,male,Kolkata,WB,India,Retail,2023-08-27
+C0772,Emily Davis,01-05-1985,f,San Francisco,California,US,Retail,2024/08/20
+C0773,OLIVIA HARRIS,2/14/1983,female,Los Angeles,CA,USA,Retail,10-05-2020
+C0774,Matthew Jones,1970/09/16,m,Houston,TX,United States,Wealth,2021/12/27
+C0775,JESSICA DAVIS,"2-04/02/1978, 12:00:00 AM-1978",Female,New York,New York,USA,Retail,"1-12/01/2022, 12:00:00 AM-2022"
+C0776,Vikram Rao,1992-10-20,,Hyderabad,Telangana,IN,Retail,2020/05/05
+C0777,Manish Sharma,10/25/1979,MALE,Mumbai,Maharashtra,India,Retail,25-08-2021
+C0778,thomas martin,"17-04/17/1987, 12:00:00 AM-1987",MALE,Edinburgh,Scotland,UK,Retail,2022/07/03
+C0779,suresh Reddy,05-01-1972,,Pune,MH,IND,Retail,1/19/2022
+C0780,WILLIAM MILLER,,M,London,"""""",United Kingdom,Wealth,2023-02-01
+C0781,sunita Pillai,28-11-1981,Female,Bengaluru,Karnataka,India,Retail,24-03-2020
+C0782,Mark Davis,1989/02/16,Male,New York,NY,USA,Retail,"17-12/17/2022, 12:00:00 AM-2022"
+C0783,ankit iyer,4/11/1986,male,Mumbai,Maharashtra,IN,Retail,2020-08-13
+C0784,michael jones,4/10/1989,Male,Melbourne,VIC,Australia,Wealth,2021/04/21
+C0785,DANIEL WILSON,07-05-1971,M,New York,New York,US,Retail,"11-09/11/2024, 12:00:00 AM-2024"
+C0786,jennifer taylor,28-03-1983,female,London,"""""",UK,Retail,4/23/2022
+C0787,Joseph Johnson,19-11-1977,Male,Birmingham,England,GB,Wealth,"17-08/17/2023, 12:00:00 AM-2023"
+C0788,Robert White,1989-10-15,MALE,Houston,Texas,USA,Retail,2022-09-03
+C0789,Jessica Miller,"4-05/04/1991, 12:00:00 AM-1991",Female,Phoenix,Arizona,United States,Retail,16-11-2022
+C0790,neha desai,1988/12/11,FEMALE,Bengaluru,KA,India,Retail,"13-03/13/2021, 12:00:00 AM-2021"
+C0791,JESSICA JOHNSON,1987/03/03,,Birmingham,England,United Kingdom,Retail,"23-02/23/2020, 12:00:00 AM-2020"
+C0792,Nitin Shah,1985-04-13,m,Bengaluru,Karnataka,India,Retail,"12-04/12/2021, 12:00:00 AM-2021"
+C0793,SUNITA DESAI,1984-06-08,f,Delhi,Delhi,India,Retail,02-08-2023
+C0794,Emily Miller,26-04-1986,FEMALE,Sydney,NSW,AU,Retail,15-08-2021
+C0795,emma harris,02-03-1969,f,Glasgow,,GB,Retail,3/2/2020
+C0796,Ravi Singh,22-03-1986,m,Hyderabad,TS,IN,Retail,11-06-2020
+C0797,RICHARD JOHNSON,,male,Los Angeles,,USA,Retail,2023/05/24
+C0798,RAHUL MEHTA,8/15/1971,MALE,Delhi,DL,India,Retail,3/5/2023
+C0799,sunita Iyer,5/21/1973,Female,Hyderabad,Telangana,IN,Retail,2020/09/21
+C0800,Daniel Williams,"27-10/27/1975, 12:00:00 AM-1975",M,San Francisco,California,US,Retail,2021-11-06
+C0801,Shruti Iyer,1979/07/06,female,Bengaluru,Karnataka,India,Retail,25-02-2022
+C0802,Amy Harris,1984-08-24,F,Edinburgh,Scotland,GB,Retail,"2-03/02/2020, 12:00:00 AM-2020"
+C0803,Emily Johnson,1985/06/12,Female,Phoenix,AZ,United States,Retail,2024-08-09
+C0804,thomas Johnson,"12-09/12/1985, 12:00:00 AM-1985",m,Edinburgh,Scotland,United Kingdom,Retail,10/18/2023
+C0805,william brown,1970-06-15,male,Sydney,New South Wales,AU,Wealth,2022-02-26
+C0806,rebecca davis,24-03-1987,FEMALE,San Francisco,California,United States,Wealth,2021-08-18
+C0807,LISA BROWN,1986-06-08,female,Sydney,NSW,Australia,Wealth,2023-02-26
+C0808,steven johnson,26-11-1970,MALE,Glasgow,,UK,Wealth,18-11-2023
+C0809,Anjali Mehta,"11-04/11/1978, 12:00:00 AM-1978",FEMALE,Chennai,TN,India,Retail,2020/04/25
+C0810,hannah brown,06-06-1975,F,Birmingham,England,GB,Retail,"3-12/03/2022, 12:00:00 AM-2022"
+C0811,joseph Brown,1990-01-16,Male,Birmingham,England,GB,Wealth,03-09-2021
+C0812,OLIVIA BROWN,9/23/1990,,London,,GB,Wealth,2022-12-24
+C0813,divya Shah,"18-11/18/1987, 12:00:00 AM-1987",f,Delhi,Delhi,IN,Retail,10/19/2023
+C0814,deepak Joshi,1982-02-03,,Kolkata,West Bengal,India,Wealth,17-05-2024
+C0815,rajesh Sharma,1978/11/08,male,Chennai,TN,India,Retail,2023/01/20
+C0816,STEVEN ANDERSON,1972-02-03,male,Manchester,,GB,Retail,20-04-2020
+C0817,daniel smith,7/26/1974,M,New York,New York,USA,Retail,2021-05-23
+C0818,daniel Harris,1978-10-24,Male,Phoenix,,United States,Retail,"7-07/07/2022, 12:00:00 AM-2022"
+C0819,mark Smith,"26-09/26/1989, 12:00:00 AM-1989",m,San Francisco,California,USA,Wealth,2020-08-19
+C0820,David Williams,27-01-1977,m,Melbourne,VIC,AUS,Retail,"25-04/25/2021, 12:00:00 AM-2021"
+C0821,Christopher Taylor,3/10/1991,male,New York,New York,USA,Wealth,2020-04-19
+C0822,Vikram Singh,"17-09/17/1991, 12:00:00 AM-1991",M,Kolkata,West Bengal,IND,Wealth,10/8/2021
+C0823,priya sharma,1977/10/16,FEMALE,Chennai,TN,IN,Retail,2022/12/03
+C0824,jessica Smith,"25-09/25/1994, 12:00:00 AM-1994",f,San Francisco,California,USA,Retail,2023-08-08
+C0825,LISA BROWN,,f,Houston,TX,United States,Wealth,2023-09-14
+C0826,OLIVIA JONES,1987/12/28,F,Birmingham,England,GB,Retail,14-07-2021
+C0827,Robert Anderson,1978-10-28,male,Edinburgh,Scotland,GB,Retail,27-07-2020
+C0828,PRASHANT PILLAI,"7-07/07/1989, 12:00:00 AM-1989",m,Delhi,Delhi,IN,Wealth,1/12/2023
+C0829,SOPHIE WILSON,14-05-1980,F,Manchester,England,UK,Retail,2023/11/07
+C0830,rachel Harris,24-07-1993,FEMALE,Phoenix,Arizona,USA,Retail,5/13/2020
+C0831,Steven Jackson,1979/12/08,m,Los Angeles,,US,Wealth,04-03-2023
+C0832,Vikram Gupta,,Male,Hyderabad,Telangana,IND,Retail,4/17/2021
+C0833,Matthew Wilson,1992/08/10,male,Chicago,Illinois,United States,Retail,11/4/2024
+C0834,RACHEL TAYLOR,1972/11/23,f,Edinburgh,Scotland,GB,Retail,2020-11-07
+C0835,sunita iyer,1/11/1979,Female,Bengaluru,KA,India,Retail,"27-03/27/2022, 12:00:00 AM-2022"
+C0836,emma Miller,"15-12/15/1977, 12:00:00 AM-1977",F,London,"""""",UK,Retail,2022-07-03
+C0837,JENNIFER JOHNSON,"27-08/27/1991, 12:00:00 AM-1991",f,Glasgow,,UK,Retail,11/23/2023
+C0838,emma Martin,05-07-1984,F,Edinburgh,,GB,Wealth,12/11/2022
+C0839,ajay Rao,1993/04/24,MALE,Delhi,DL,India,Retail,2023-03-02
+C0840,Manish Rao,25-08-1993,MALE,Chennai,TN,IN,Retail,"11-07/11/2020, 12:00:00 AM-2020"
+C0841,ANKIT NAIR,6/10/1971,Male,Chennai,Tamil Nadu,IND,Retail,2024/02/01
+C0842,Rachel Williams,1983-07-13,F,Sydney,,AUS,Retail,10-07-2024
+C0843,REBECCA JOHNSON,3/21/1979,f,Glasgow,,United Kingdom,Wealth,2021-01-12
+C0844,RACHEL MARTIN,"7-04/07/1972, 12:00:00 AM-1972",FEMALE,Manchester,,UK,Retail,19-01-2024
+C0845,JOHN SMITH,1985-02-11,M,Birmingham,England,United Kingdom,Retail,27-10-2024
+C0846,shruti Nair,14-06-1989,F,Pune,,IND,Retail,2022/08/14
+C0847,EMMA BROWN,03-11-1980,female,Los Angeles,California,US,Retail,5/3/2024
+C0848,Rebecca Harris,12/26/1981,FEMALE,San Francisco,California,USA,Retail,"2-02/02/2022, 12:00:00 AM-2022"
+C0849,Ravi Reddy,1987/03/14,Male,Hyderabad,Telangana,IN,Retail,18-09-2023
+C0850,sophie Jackson,1990-10-22,f,Manchester,,GB,Retail,4/23/2020
+C0851,rekha Verma,1969-07-21,Female,Delhi,Delhi,IND,Retail,24-06-2024
+C0852,JAMES THOMAS,2/2/1991,MALE,Brisbane,Queensland,Australia,Retail,11-12-2022
+C0853,ROBERT WILLIAMS,02-07-1977,m,Edinburgh,,GB,Retail,16-02-2020
+C0854,DAVID SMITH,28-07-1990,Male,Chicago,IL,USA,Retail,2022-08-19
+C0855,Matthew Williams,1982/02/21,M,Los Angeles,California,United States,Retail,15-01-2023
+C0856,LAURA SMITH,14-06-1978,f,London,"""""",United Kingdom,Retail,24-05-2020
+C0857,neha reddy,9/8/1984,f,Hyderabad,Telangana,IND,Retail,"22-04/22/2020, 12:00:00 AM-2020"
+C0858,STEVEN TAYLOR,,,San Francisco,CA,United States,Retail,2023/06/19
+C0859,Thomas Harris,,m,Manchester,,UK,Wealth,2020/03/06
+C0860,AMY JONES,"8-02/08/1975, 12:00:00 AM-1975",FEMALE,Edinburgh,,UK,Retail,"8-07/08/2022, 12:00:00 AM-2022"
+C0861,Charlotte Davis,"19-11/19/1979, 12:00:00 AM-1979",Female,Glasgow,,United Kingdom,Wealth,09-12-2024
+C0862,rahul gupta,"10-05/10/1974, 12:00:00 AM-1974",Male,Delhi,Delhi,IND,Retail,2022-11-20
+C0863,matthew Harris,1984/11/05,M,Los Angeles,California,United States,Retail,"18-04/18/2023, 12:00:00 AM-2023"
+C0864,Sanjay Pillai,6/2/1977,m,Chennai,,India,Retail,10/13/2022
+C0865,vikram reddy,3/5/1987,male,Chennai,Tamil Nadu,IN,Wealth,"12-06/12/2021, 12:00:00 AM-2021"
+C0866,pooja desai,08-04-1970,,Chennai,Tamil Nadu,IND,Retail,2022-03-24
+C0867,michael White,12/8/1972,M,Edinburgh,Scotland,UK,Retail,2022-01-17
+C0868,Rahul Shah,2/1/1981,MALE,Chennai,TN,India,Retail,"4-11/04/2023, 12:00:00 AM-2023"
+C0869,jennifer white,8/7/1990,female,Chicago,IL,USA,Wealth,04-09-2022
+C0870,shruti Mehta,17-10-1989,f,Kolkata,WB,India,Retail,"16-10/16/2024, 12:00:00 AM-2024"
+C0871,AMY THOMAS,1974/01/13,F,Phoenix,AZ,United States,Retail,24-02-2022
+C0872,lisa davis,,Female,Chicago,Illinois,United States,Retail,07-01-2020
+C0873,Laura Smith,1977/02/14,f,Phoenix,AZ,United States,Wealth,"6-01/06/2023, 12:00:00 AM-2023"
+C0874,steven miller,1994-08-27,m,Chicago,IL,US,Wealth,2020-10-24
+C0875,OLIVIA THOMAS,1987/02/21,F,Edinburgh,Scotland,UK,Retail,2024-07-06
+C0876,Amy Wilson,"26-04/26/1974, 12:00:00 AM-1974",FEMALE,New York,New York,US,Retail,2020/04/01
+C0877,SURESH GUPTA,1986/02/09,Male,Kolkata,West Bengal,India,Wealth,18-05-2022
+C0878,CHARLOTTE DAVIS,7/12/1985,Female,Brisbane,,Australia,Retail,2021/05/08
+C0879,ajay Sharma,8/11/1990,Male,Pune,MH,IND,Retail,2021/11/15
+C0880,rachel Johnson,"14-01/14/1977, 12:00:00 AM-1977",Female,London,England,UK,Retail,2020-08-18
+C0881,emily Davis,,FEMALE,Los Angeles,California,USA,Retail,9/8/2020
+C0882,sarah martin,12-03-1992,female,London,"""""",UK,Retail,10/26/2022
+C0883,Rebecca Johnson,"26-02/26/1987, 12:00:00 AM-1987",F,Phoenix,,United States,Retail,2021-03-21
+C0884,David Jones,20-06-1990,male,Melbourne,VIC,AU,Retail,8/28/2022
+C0885,Sophie Smith,,FEMALE,Manchester,England,UK,Retail,"6-10/06/2022, 12:00:00 AM-2022"
+C0886,daniel Taylor,03-04-1986,m,Sydney,NSW,AU,Retail,22-09-2021
+C0887,nicole taylor,21-06-1974,FEMALE,Edinburgh,Scotland,United Kingdom,Retail,2020-10-13
+C0888,MATTHEW MARTIN,7/23/1988,MALE,Glasgow,,GB,Retail,2024-10-09
+C0889,hannah Harris,7/21/1990,,Birmingham,England,UK,Wealth,10/15/2024
+C0890,richard Smith,"16-12/16/1986, 12:00:00 AM-1986",Male,Manchester,,GB,Wealth,2023/08/13
+C0891,lisa Thomas,"12-11/12/1983, 12:00:00 AM-1983",FEMALE,Chicago,Illinois,United States,Retail,27-03-2024
+C0892,LAURA THOMAS,01-12-1990,female,Melbourne,VIC,AUS,Retail,22-10-2021
+C0893,sarah smith,11-10-1974,female,Los Angeles,California,United States,Wealth,2024-09-10
+C0894,Deepak Shah,1970-12-06,MALE,Delhi,DL,IND,Retail,"6-01/06/2024, 12:00:00 AM-2024"
+C0895,EMILY WHITE,1982-03-05,,Birmingham,,GB,Retail,4/5/2023
+C0896,Emily Wilson,"2-02/02/1988, 12:00:00 AM-1988",FEMALE,New York,NY,US,Retail,"6-12/06/2022, 12:00:00 AM-2022"
+C0897,andrew white,1977-11-08,MALE,Melbourne,VIC,Australia,Retail,23-04-2022
+C0898,Ananya Gupta,"16-04/16/1973, 12:00:00 AM-1973",F,Pune,MH,IN,Retail,2020-07-26
+C0899,Vijay Kumar,"4-04/04/1971, 12:00:00 AM-1971",MALE,Mumbai,MH,India,Retail,"3-03/03/2023, 12:00:00 AM-2023"
+C0900,Charlotte Jones,1974-03-15,FEMALE,Brisbane,,AU,Retail,2021-05-25
+C0901,Michael Jones,3/23/1978,M,Melbourne,VIC,AU,Retail,"23-10/23/2024, 12:00:00 AM-2024"
+C0902,christopher thomas,1972/11/12,M,San Francisco,CA,US,Wealth,8/2/2020
+C0903,Lisa Smith,1972/10/09,FEMALE,Sydney,New South Wales,Australia,Retail,2021-01-28
+C0904,CHARLOTTE WILLIAMS,1990-01-15,FEMALE,Phoenix,Arizona,United States,Retail,2021/05/11
+C0905,LAURA WILSON,8/6/1976,Female,Brisbane,QLD,AUS,Retail,03-02-2021
+C0906,Amit Rao,03-09-1988,Male,Kolkata,West Bengal,IND,Wealth,2023/11/14
+C0907,rachel johnson,1992-09-22,FEMALE,New York,NY,United States,Retail,10/11/2021
+C0908,CHRISTOPHER WILLIAMS,1990-06-26,M,Brisbane,QLD,AU,Retail,2023/08/22
+C0909,emily Smith,1994/12/16,female,New York,New York,USA,Retail,2024-03-09
+C0910,hannah Martin,8/23/1982,FEMALE,Sydney,New South Wales,AUS,Retail,"17-01/17/2020, 12:00:00 AM-2020"
+C0911,ROBERT WHITE,5/20/1993,M,Melbourne,Victoria,Australia,Retail,"15-04/15/2020, 12:00:00 AM-2020"
+C0912,emily white,"10-10/10/1993, 12:00:00 AM-1993",f,San Francisco,CA,USA,Retail,2021/10/12
+C0913,EMMA MILLER,"6-10/06/1972, 12:00:00 AM-1972",F,Birmingham,,United Kingdom,Retail,12/5/2021
+C0914,Divya Verma,"13-06/13/1983, 12:00:00 AM-1983",Female,Mumbai,Maharashtra,IN,Retail,02-03-2022
+C0915,sunita Nair,4/2/1993,Female,Pune,MH,IN,Retail,"15-02/15/2023, 12:00:00 AM-2023"
+C0916,Michael White,1994/06/05,M,Sydney,New South Wales,AU,Retail,"1-07/01/2021, 12:00:00 AM-2021"
+C0917,James Jackson,1979/06/04,male,Phoenix,Arizona,US,Retail,07-03-2022
+C0918,Swati Iyer,1993/07/16,female,Kolkata,West Bengal,IND,Retail,"21-12/21/2020, 12:00:00 AM-2020"
+C0919,sophie wilson,,female,Manchester,,GB,Retail,02-01-2022
+C0920,NEHA DESAI,"28-01/28/1983, 12:00:00 AM-1983",f,Bengaluru,KA,India,Retail,2022-05-23
+C0921,Michael Smith,1982-12-12,m,Glasgow,,GB,Wealth,12/24/2024
+C0922,JESSICA BROWN,,F,San Francisco,CA,US,Retail,2021-11-04
+C0923,VIKRAM MEHTA,21-02-1993,M,Pune,MH,IN,Retail,15-03-2020
+C0924,Andrew Brown,09-08-1978,,Edinburgh,,United Kingdom,Retail,2/11/2020
+C0925,jennifer martin,"12-09/12/1981, 12:00:00 AM-1981",Female,Chicago,IL,United States,Retail,2021/07/17
+C0926,Sunita Iyer,,F,Bengaluru,KA,IND,Retail,2021-03-11
+C0927,EMMA WILSON,2/11/1992,female,San Francisco,CA,US,Retail,2020-01-19
+C0928,Steven Williams,,m,Glasgow,,United Kingdom,Retail,2023-10-03
+C0929,VIJAY REDDY,1990-01-13,Male,Chennai,Tamil Nadu,India,Retail,2021/07/26
+C0930,lisa johnson,12/11/1978,female,Birmingham,,GB,Retail,2021/06/18
+C0931,VIKRAM SINGH,1969/10/14,m,Bengaluru,Karnataka,India,Retail,"21-10/21/2022, 12:00:00 AM-2022"
+C0932,STEVEN DAVIS,1972/02/01,M,Los Angeles,CA,United States,Retail,18-09-2024
+C0933,Prashant Gupta,10/17/1991,M,Hyderabad,TS,IN,Retail,2/28/2024
+C0934,emma Miller,1975-07-04,f,Glasgow,Scotland,UK,Retail,2020-01-13
+C0935,nicole Anderson,1969/10/10,female,Phoenix,AZ,US,Retail,"10-12/10/2021, 12:00:00 AM-2021"
+C0936,charlotte Miller,1977-01-09,female,London,England,United Kingdom,Retail,5/9/2021
+C0937,suresh Patel,2/6/1978,M,Mumbai,Maharashtra,IND,Retail,2022/07/15
+C0938,Swati Pillai,1985-12-18,F,Chennai,TN,IND,Retail,2022-01-28
+C0939,robert Harris,9/3/1982,M,Glasgow,Scotland,GB,Retail,2023/05/20
+C0940,Hannah Jackson,1991/08/10,F,London,England,United Kingdom,Wealth,2023/06/19
+C0941,rachel miller,"4-03/04/1978, 12:00:00 AM-1978",F,New York,New York,USA,Wealth,2020/12/24
+C0942,Manish Verma,1987/09/12,m,Kolkata,WB,India,Retail,9/6/2023
+C0943,NEHA REDDY,5/9/1992,F,Chennai,TN,India,Wealth,17-08-2020
+C0944,RACHEL DAVIS,2/4/1976,Female,Manchester,England,GB,Wealth,"13-12/13/2020, 12:00:00 AM-2020"
+C0945,ANANYA SHARMA,1981/11/11,FEMALE,Delhi,Delhi,IND,Retail,2020/07/24
+C0946,Laura Jones,1979-02-08,Female,Birmingham,England,UK,Wealth,2022/04/27
+C0947,WILLIAM ANDERSON,1987-05-21,M,New York,NY,US,Retail,2024/11/25
+C0948,Christopher Taylor,,m,Phoenix,Arizona,US,Wealth,2020-03-28
+C0949,ritu mehta,1972/06/12,F,Mumbai,MH,IND,Wealth,2021-06-15
+C0950,STEVEN BROWN,"18-08/18/1971, 12:00:00 AM-1971",Male,Brisbane,QLD,AUS,Retail,2021-11-15
+C0951,RACHEL JACKSON,9/16/1979,female,Chicago,Illinois,United States,Retail,"17-10/17/2021, 12:00:00 AM-2021"
+C0952,anjali patel,"8-08/08/1975, 12:00:00 AM-1975",f,Delhi,DL,India,Retail,4/11/2022
+C0953,Amy Jones,1986-05-14,FEMALE,London,England,United Kingdom,Retail,2022-07-22
+C0954,lisa Jackson,1978-02-02,Female,Houston,Texas,USA,Retail,2021-11-01
+C0955,DANIEL HARRIS,1969/04/27,M,San Francisco,CA,US,Retail,2022-03-28
+C0956,william Taylor,12-07-1973,MALE,Houston,,United States,Retail,2021-08-24
+C0957,RITU MEHTA,,f,Delhi,DL,IN,Retail,2/19/2020
+C0958,Meena Singh,"11-04/11/1987, 12:00:00 AM-1987",f,Chennai,TN,India,Retail,2022-10-17
+C0959,HANNAH HARRIS,1978/09/24,Female,Birmingham,,UK,Wealth,7/2/2022
+C0960,Rachel Wilson,9/21/1984,female,Houston,Texas,United States,Retail,2022/10/27
+C0961,Ankit Sharma,1994-12-22,M,Delhi,DL,IN,Retail,2021-03-18
+C0962,prashant Desai,,Male,Pune,Maharashtra,IND,Retail,12/15/2021
+C0963,manish Nair,1990-12-05,Male,Kolkata,West Bengal,IND,Retail,1/28/2024
+C0964,Steven Thomas,"25-12/25/1972, 12:00:00 AM-1972",MALE,Brisbane,QLD,AUS,Retail,1/9/2022
+C0965,Sapna Patel,1972/01/15,F,Bengaluru,Karnataka,India,Retail,2024/11/14
+C0966,arun verma,"19-11/19/1986, 12:00:00 AM-1986",m,Pune,Maharashtra,IN,Wealth,2022/05/25
+C0967,Manish Kumar,1973/09/22,male,Pune,Maharashtra,IN,Wealth,2024-06-14
+C0968,SWATI IYER,"28-08/28/1989, 12:00:00 AM-1989",Female,Hyderabad,TS,India,Retail,11/1/2020
+C0969,robert Miller,21-06-1975,MALE,San Francisco,,US,Wealth,19-11-2021
+C0970,james brown,19-11-1977,M,Glasgow,,GB,Retail,07-05-2020
+C0971,Nicole Jackson,7/27/1975,FEMALE,Manchester,,UK,Retail,"20-09/20/2023, 12:00:00 AM-2023"
+C0972,NEHA MEHTA,1977-05-05,f,Hyderabad,,IND,Retail,2021-08-27
+C0973,Emma Miller,9/6/1984,f,Sydney,,AUS,Retail,"16-03/16/2024, 12:00:00 AM-2024"
+C0974,sanjay sharma,8/17/1990,MALE,Kolkata,WB,IND,Retail,2022-12-14
+C0975,RITU PILLAI,1/11/1978,female,Chennai,Tamil Nadu,IND,Wealth,2023-07-16
+C0976,Ravi Singh,2/14/1976,M,Bengaluru,KA,India,Retail,2023-05-06
+C0977,JOHN SMITH,4/12/1969,Male,London,"""""",United Kingdom,Wealth,2024-02-28
+C0978,sapna Reddy,"4-07/04/1993, 12:00:00 AM-1993",Female,Chennai,TN,India,Retail,2022/10/18
+C0979,WILLIAM TAYLOR,"1-01/01/1987, 12:00:00 AM-1987",m,Glasgow,Scotland,UK,Retail,"27-10/27/2023, 12:00:00 AM-2023"
+C0980,REBECCA TAYLOR,1985/01/17,F,Brisbane,,Australia,Retail,19-02-2021
+C0981,Joseph Williams,1975/02/17,MALE,Glasgow,,United Kingdom,Retail,11/6/2020
+C0982,RICHARD BROWN,5/21/1970,m,Manchester,,UK,Retail,5/11/2020
+C0983,William White,1991/03/02,,Manchester,,UK,Retail,2023-01-22
+C0984,ANDREW WILLIAMS,"15-12/15/1981, 12:00:00 AM-1981",M,Birmingham,England,UK,Retail,2024/03/26
+C0985,rachel Harris,5/7/1982,female,London,,GB,Wealth,2024-11-16
+C0986,amit verma,"15-03/15/1980, 12:00:00 AM-1980",,Chennai,,India,Retail,2023-07-06
+C0987,Manish Pillai,18-03-1972,MALE,Chennai,Tamil Nadu,IND,Retail,2024/05/16
+C0988,divya Desai,"26-08/26/1984, 12:00:00 AM-1984",Female,Kolkata,WB,IND,Retail,24-07-2024
+C0989,andrew Jackson,1973-11-13,Male,Brisbane,QLD,Australia,Retail,10/6/2023
+C0990,Rahul Patel,1986-05-19,male,Pune,MH,India,Wealth,2022/04/08
+C0991,jessica Smith,"2-07/02/1992, 12:00:00 AM-1992",F,Birmingham,,United Kingdom,Retail,28-04-2022
+C0992,emily brown,"2-12/02/1987, 12:00:00 AM-1987",F,Houston,TX,US,Retail,01-08-2021
+C0993,joseph Anderson,"21-03/21/1990, 12:00:00 AM-1990",m,Phoenix,,US,Retail,09-10-2024
+C0994,ARUN REDDY,1981/03/14,Male,Delhi,Delhi,IND,Retail,"27-01/27/2020, 12:00:00 AM-2020"
+C0995,richard johnson,"22-12/22/1980, 12:00:00 AM-1980",M,Birmingham,England,UK,Retail,2022-11-13
+C0996,Sophie Taylor,27-01-1989,F,Manchester,,GB,Wealth,8/16/2021
+C0997,Joseph Williams,1988/06/25,Male,Sydney,New South Wales,AUS,Retail,12/9/2022
+C0998,Sarah Davis,1971-11-17,F,Edinburgh,,GB,Retail,2023/03/17
+C0999,thomas Williams,4/19/1978,Male,Chicago,Illinois,United States,Retail,17-06-2020
+C1000,AJAY GUPTA,1980/02/17,,Hyderabad,TS,India,Retail,2020-05-18
