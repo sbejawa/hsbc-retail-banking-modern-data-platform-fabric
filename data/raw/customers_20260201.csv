@@ -1,6 +1,6 @@
 customer_id,full_name,dob,gender,city,state,country,segment,onboarding_date
 C0001,Laura Martin,03-07-1983,FEMALE,London,England,United Kingdom,Retail,2023/04/21
-C0002,JOSEPH WHITE,"22-12/22/1990, 12:00:00 AM-1990",m,San Francisco,CA,USA,Retail,1/17/2023
+C0002,JOSEPH WHITE,"22-12/22/1990, 12:00:00 AM-1990",m,San Francisco,CA,USA,Wealth,1/17/2023
 C0003,charlotte Miller,,FEMALE,Sydney,New South Wales,AUS,Retail,15-09-2024
 C0004,Anjali Desai,1984-12-25,F,Bengaluru,KA,India,Retail,19-01-2020
 C0005,Laura Anderson,18-09-1977,female,San Francisco,California,United States,Retail,21-09-2020
